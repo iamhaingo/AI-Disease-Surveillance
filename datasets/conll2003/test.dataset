@@ -1,0 +1,6887 @@
+-DOCSTART- -X- -X- O
+
+Researchers _ _ O
+looked _ _ O
+at _ _ O
+95 _ _ O
+studies _ _ O
+from _ _ O
+January _ _ O
+2020 _ _ O
+to _ _ O
+February _ _ O
+2021 _ _ O
+consisting _ _ O
+of _ _ O
+nearly _ _ O
+30 _ _ O
+million _ _ O
+people _ _ O
+in _ _ O
+Asia _ _ B-LOC
+, _ _ O
+Europe _ _ B-LOC
+, _ _ O
+North _ _ B-LOC
+America _ _ I-LOC
+, _ _ O
+South _ _ B-LOC
+America _ _ I-LOC
+and _ _ O
+Africa _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Omicron _ _ O
+study _ _ O
+: _ _ B-LOC
+South _ _ I-LOC
+Africa _ _ I-LOC
+finds _ _ O
+variant _ _ O
+' _ _ O
+highly _ _ O
+transmissible _ _ O
+' _ _ O
+and _ _ O
+more _ _ O
+resistant _ _ O
+to _ _ O
+COVID-19 _ _ O
+vaccines _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+Kentucky _ _ O
+Department _ _ O
+for _ _ O
+Public _ _ O
+Health _ _ O
+and _ _ O
+a _ _ O
+local _ _ O
+health _ _ O
+department _ _ O
+investigated _ _ O
+two _ _ O
+outbreaks _ _ O
+at _ _ O
+a _ _ O
+nursing _ _ O
+facility _ _ O
+, _ _ O
+one _ _ O
+in _ _ O
+July _ _ B-TIM
+2020 _ _ I-TIM
+and _ _ O
+the _ _ O
+second _ _ O
+in _ _ O
+October _ _ B-TIM
+2020 _ _ I-TIM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Researchers _ _ O
+found _ _ O
+five _ _ O
+residents _ _ O
+– _ _ O
+three _ _ O
+asymptomatic _ _ O
+and _ _ O
+two _ _ O
+with _ _ O
+mild _ _ O
+symptoms _ _ O
+during _ _ O
+the _ _ O
+first _ _ O
+outbreak _ _ O
+– _ _ O
+were _ _ O
+more _ _ O
+sick _ _ O
+during _ _ O
+the _ _ O
+second _ _ O
+outbreak _ _ O
+, _ _ O
+according _ _ O
+to _ _ O
+the _ _ O
+study _ _ O
+published _ _ O
+in _ _ O
+February _ _ B-TIM
+2021 _ _ I-TIM
+by _ _ O
+the _ _ O
+Centers _ _ O
+for _ _ O
+Disease _ _ O
+Control _ _ O
+and _ _ O
+Prevention _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+' _ _ B-SYM
+Covid _ _ I-SYM
+toes _ _ I-SYM
+' _ _ O
+that _ _ O
+turn _ _ O
+purple _ _ O
+from _ _ O
+the _ _ O
+disease _ _ O
+can _ _ O
+last _ _ O
+for _ _ O
+at _ _ O
+least _ _ O
+five _ _ O
+months _ _ O
+after _ _ O
+survivors _ _ O
+beat _ _ O
+the _ _ O
+infection _ _ O
+, _ _ O
+scientists _ _ O
+have _ _ O
+found _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Inflammation _ _ B-SYM
+of _ _ I-SYM
+the _ _ I-SYM
+toes _ _ I-SYM
+caused _ _ O
+by _ _ O
+Covid-19 _ _ O
+can _ _ O
+lead _ _ O
+to _ _ O
+red _ _ B-SYM
+or _ _ I-SYM
+purple _ _ I-SYM
+skin _ _ I-SYM
+, _ _ O
+swelling _ _ B-SYM
+and _ _ O
+chilblain _ _ B-SYM
+- _ _ I-SYM
+like _ _ I-SYM
+blisters _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+But _ _ O
+in _ _ O
+some _ _ O
+people _ _ O
+, _ _ O
+the _ _ O
+skin _ _ B-SYM
+problem _ _ I-SYM
+has _ _ O
+become _ _ O
+a _ _ O
+manifestation _ _ O
+of _ _ O
+' _ _ O
+Long _ _ O
+Covid _ _ O
+' _ _ O
+, _ _ O
+lasting _ _ O
+for _ _ O
+months _ _ O
+after _ _ O
+patients _ _ O
+have _ _ O
+fought _ _ O
+the _ _ O
+virus _ _ O
+off _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Previous _ _ O
+research _ _ O
+estimates _ _ O
+that _ _ O
+around _ _ O
+one _ _ O
+in _ _ O
+12 _ _ O
+people _ _ O
+with _ _ O
+coronavirus _ _ O
+develop _ _ O
+some _ _ O
+kind _ _ O
+of _ _ O
+skin _ _ B-SYM
+complaint _ _ I-SYM
+, _ _ O
+and _ _ O
+experts _ _ O
+have _ _ O
+repeatedly _ _ O
+called _ _ O
+for _ _ O
+health _ _ O
+chiefs _ _ O
+to _ _ O
+recognise _ _ O
+it _ _ O
+as _ _ O
+an _ _ O
+official _ _ O
+symptom _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+' _ _ B-SYM
+Covid _ _ I-SYM
+toes _ _ I-SYM
+' _ _ O
+that _ _ O
+turn _ _ O
+purple _ _ O
+from _ _ O
+the _ _ O
+disease _ _ O
+can _ _ O
+least _ _ O
+for _ _ O
+five _ _ O
+months _ _ O
+after _ _ O
+infection _ _ O
+, _ _ O
+scientists _ _ O
+have _ _ O
+found _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Inflammation _ _ B-SYM
+of _ _ O
+the _ _ O
+toes _ _ O
+caused _ _ O
+by _ _ O
+Covid-19 _ _ O
+can _ _ O
+lead _ _ O
+to _ _ O
+red _ _ B-SYM
+or _ _ I-SYM
+purple _ _ I-SYM
+skin _ _ I-SYM
+, _ _ O
+swelling _ _ B-SYM
+and _ _ O
+chilblain _ _ B-SYM
+- _ _ I-SYM
+like _ _ I-SYM
+blisters _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Scientists _ _ O
+established _ _ O
+an _ _ O
+international _ _ O
+registry _ _ O
+for _ _ O
+Covid-19 _ _ O
+skin _ _ O
+manifestations _ _ O
+in _ _ O
+April _ _ B-TIM
+2020 _ _ I-TIM
+, _ _ O
+in _ _ O
+collaboration _ _ O
+with _ _ O
+the _ _ O
+International _ _ O
+League _ _ O
+of _ _ O
+Dermatological _ _ O
+Societies _ _ O
+and _ _ O
+the _ _ O
+American _ _ O
+Academy _ _ O
+of _ _ O
+Dermatology _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Doctors _ _ O
+who _ _ O
+entered _ _ O
+patients _ _ O
+into _ _ O
+the _ _ O
+register _ _ O
+in _ _ O
+April _ _ B-TIM
+were _ _ O
+contacted _ _ O
+in _ _ O
+June _ _ B-TIM
+and _ _ O
+August _ _ B-TIM
+to _ _ O
+update _ _ O
+the _ _ O
+duration _ _ O
+of _ _ O
+patients _ _ O
+' _ _ O
+Covid-19 _ _ O
+skin _ _ O
+symptoms _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Almost _ _ O
+1,000 _ _ O
+cases _ _ O
+of _ _ O
+patients _ _ O
+with _ _ O
+skin _ _ B-SYM
+manifestations _ _ I-SYM
+of _ _ O
+Covid-19 _ _ O
+in _ _ O
+39 _ _ O
+countries _ _ O
+were _ _ O
+recorded _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+About _ _ O
+half _ _ O
+of _ _ O
+the _ _ O
+patients _ _ O
+in _ _ O
+the _ _ O
+registry _ _ O
+were _ _ O
+reported _ _ O
+to _ _ O
+have _ _ O
+Covid _ _ B-SYM
+toes _ _ I-SYM
+and _ _ O
+about _ _ O
+16 _ _ O
+per _ _ O
+cent _ _ O
+of _ _ O
+those _ _ O
+had _ _ O
+to _ _ O
+be _ _ O
+hospitalised _ _ O
+from _ _ O
+the _ _ O
+disease _ _ O
+, _ _ O
+figures _ _ O
+showed _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+' _ _ B-SYM
+Covid _ _ I-SYM
+toes _ _ I-SYM
+' _ _ O
+is _ _ O
+just _ _ O
+one _ _ O
+of _ _ O
+many _ _ O
+skin _ _ O
+manifestations _ _ O
+reported _ _ O
+in _ _ O
+patients _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Dr _ _ O
+Esther _ _ O
+Freeman _ _ O
+, _ _ O
+principal _ _ O
+investigator _ _ O
+of _ _ O
+the _ _ O
+International _ _ O
+Covid-19 _ _ O
+Dermatology _ _ O
+Registry _ _ O
+, _ _ O
+said _ _ O
+: _ _ O
+' _ _ O
+The _ _ O
+skin _ _ O
+can _ _ O
+be _ _ O
+viewed _ _ O
+as _ _ O
+a _ _ O
+window _ _ O
+into _ _ O
+the _ _ O
+rest _ _ O
+of _ _ O
+the _ _ O
+body _ _ O
+because _ _ O
+it _ _ O
+is _ _ O
+inflammation _ _ B-SYM
+which _ _ O
+you _ _ O
+can _ _ O
+see _ _ O
+- _ _ O
+and _ _ O
+can _ _ O
+be _ _ O
+indicative _ _ O
+of _ _ O
+inflammation _ _ B-SYM
+elsewhere _ _ O
+. _ _ O
+' _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+' _ _ O
+The _ _ O
+main _ _ O
+reason _ _ O
+is _ _ O
+a _ _ O
+hypersensitive _ _ O
+immune _ _ O
+reaction _ _ O
+, _ _ O
+' _ _ O
+he _ _ O
+told _ _ O
+MailOnline _ _ O
+in _ _ O
+April _ _ B-TIM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Researchers _ _ O
+at _ _ O
+King _ _ O
+'s _ _ O
+College _ _ O
+London _ _ O
+called _ _ O
+for _ _ B-SYM
+skin _ _ I-SYM
+rashes _ _ I-SYM
+to _ _ O
+be _ _ O
+considered _ _ O
+as _ _ O
+the _ _ O
+fourth _ _ O
+key _ _ O
+symptom _ _ O
+of _ _ O
+Covid-19 _ _ O
+in _ _ O
+July _ _ B-TIM
+, _ _ O
+after _ _ O
+a _ _ O
+cough _ _ B-SYM
+, _ _ O
+fever _ _ B-SYM
+and _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+taste _ _ I-SYM
+and _ _ I-SYM
+smell _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Using _ _ O
+data _ _ O
+from _ _ O
+the _ _ O
+COVID _ _ O
+Symptom _ _ O
+Study _ _ O
+app _ _ O
+from _ _ O
+around _ _ O
+336,000 _ _ O
+regular _ _ O
+UK _ _ B-LOC
+users _ _ O
+, _ _ O
+researchers _ _ O
+discovered _ _ O
+that _ _ O
+8.8 _ _ O
+per _ _ O
+cent _ _ O
+of _ _ O
+people _ _ O
+reporting _ _ O
+a _ _ O
+positive _ _ O
+coronavirus _ _ O
+swab _ _ O
+test _ _ O
+had _ _ O
+experienced _ _ O
+a _ _ O
+skin _ _ B-SYM
+rash _ _ I-SYM
+as _ _ O
+part _ _ O
+of _ _ O
+their _ _ O
+symptoms _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Dr _ _ O
+Adil _ _ O
+Sheraz _ _ O
+, _ _ O
+a _ _ O
+consultant _ _ O
+dermatologist _ _ O
+and _ _ O
+spokesperson _ _ O
+told _ _ O
+MailOnline _ _ O
+in _ _ O
+April _ _ O
+: _ _ O
+' _ _ O
+A _ _ O
+variety _ _ O
+of _ _ O
+skin _ _ B-SYM
+manifestations _ _ I-SYM
+have _ _ O
+been _ _ O
+seen _ _ O
+in _ _ O
+Covid-19 _ _ O
+positive _ _ O
+patients _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+' _ _ O
+If _ _ O
+you _ _ O
+develop _ _ O
+a _ _ O
+new _ _ O
+rash _ _ B-SYM
+then _ _ O
+please _ _ O
+speak _ _ O
+to _ _ O
+your _ _ O
+GP _ _ O
+or _ _ O
+dermatologist _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+A _ _ O
+diagnosis _ _ O
+of _ _ O
+Covid-19 _ _ O
+should _ _ O
+not _ _ O
+be _ _ O
+made _ _ O
+from _ _ O
+just _ _ O
+the _ _ O
+presence _ _ O
+of _ _ O
+a _ _ O
+rash _ _ B-SYM
+. _ _ O
+' _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Of _ _ O
+those _ _ O
+who _ _ O
+had _ _ O
+' _ _ B-SYM
+Covid _ _ I-SYM
+toes _ _ I-SYM
+' _ _ O
+— _ _ O
+which _ _ O
+is _ _ O
+chilblains _ _ B-SYM
+, _ _ O
+redness _ _ B-SYM
+or _ _ I-SYM
+swelling _ _ I-SYM
+of _ _ I-SYM
+the _ _ I-SYM
+feet _ _ I-SYM
+and _ _ I-SYM
+hands _ _ I-SYM
+— _ _ O
+symptoms _ _ O
+lasted _ _ O
+for _ _ O
+10 _ _ O
+to _ _ O
+15 _ _ O
+days _ _ O
+, _ _ O
+on _ _ O
+average _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+And _ _ O
+one _ _ O
+of _ _ O
+the _ _ O
+researchers _ _ O
+warned _ _ O
+some _ _ O
+were _ _ O
+still _ _ O
+suffering _ _ O
+from _ _ O
+' _ _ B-SYM
+Covid _ _ I-SYM
+toes _ _ I-SYM
+' _ _ O
+150 _ _ O
+days _ _ O
+later _ _ O
+— _ _ O
+the _ _ O
+equivalent _ _ O
+of _ _ O
+around _ _ O
+five _ _ O
+months _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+findings _ _ O
+, _ _ O
+which _ _ O
+will _ _ O
+be _ _ O
+presented _ _ O
+at _ _ O
+the _ _ O
+European _ _ O
+Academy _ _ O
+of _ _ O
+Dermatology _ _ O
+and _ _ O
+Venereology _ _ O
+( _ _ O
+EADV _ _ O
+) _ _ O
+Congress _ _ O
+in _ _ O
+Switzerland _ _ B-LOC
+this _ _ O
+week _ _ O
+, _ _ O
+point _ _ O
+to _ _ O
+another _ _ O
+burden _ _ O
+experienced _ _ O
+by _ _ O
+so _ _ O
+- _ _ O
+called _ _ O
+' _ _ O
+long _ _ O
+haulers _ _ O
+' _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Dr _ _ O
+Esther _ _ O
+Freeman _ _ O
+, _ _ O
+principal _ _ O
+investigator _ _ O
+of _ _ O
+the _ _ O
+International _ _ O
+Covid-19 _ _ O
+Dermatology _ _ O
+Registry _ _ O
+, _ _ O
+said _ _ O
+: _ _ O
+' _ _ O
+It _ _ O
+seems _ _ O
+there _ _ O
+is _ _ O
+a _ _ O
+certain _ _ O
+sub _ _ O
+- _ _ O
+group _ _ O
+of _ _ O
+patients _ _ O
+that _ _ O
+, _ _ O
+when _ _ O
+they _ _ O
+get _ _ O
+Covid _ _ O
+, _ _ O
+they _ _ O
+develop _ _ O
+inflammation _ _ B-SYM
+in _ _ O
+their _ _ O
+toes _ _ O
+, _ _ O
+which _ _ O
+turns _ _ O
+them _ _ O
+red _ _ O
+and _ _ O
+swollen _ _ O
+, _ _ O
+and _ _ O
+then _ _ O
+they _ _ O
+eventually _ _ O
+turn _ _ O
+purple _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+' _ _ O
+It _ _ O
+'s _ _ O
+the _ _ O
+fact _ _ O
+that _ _ O
+some _ _ O
+of _ _ O
+our _ _ O
+patients _ _ O
+are _ _ O
+at _ _ O
+over _ _ O
+150 _ _ O
+days _ _ O
+now _ _ O
+— _ _ O
+these _ _ O
+are _ _ O
+patients _ _ O
+with _ _ O
+red _ _ O
+or _ _ O
+purple _ _ O
+or _ _ O
+swollen _ _ B-SYM
+toes _ _ I-SYM
+for _ _ O
+many _ _ O
+months _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Dr _ _ O
+Freeman _ _ O
+said _ _ O
+the _ _ O
+identification _ _ O
+of _ _ O
+people _ _ O
+with _ _ O
+Covid _ _ B-SYM
+toes _ _ I-SYM
+helps _ _ O
+scientists _ _ O
+understand _ _ O
+more _ _ O
+about _ _ O
+coronavirus _ _ O
+- _ _ O
+related _ _ O
+symptoms _ _ O
+elsewhere _ _ O
+in _ _ O
+the _ _ O
+body _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+' _ _ O
+I _ _ O
+think _ _ O
+it _ _ O
+raises _ _ O
+a _ _ O
+lot _ _ O
+of _ _ O
+questions _ _ O
+about _ _ O
+what _ _ O
+sort _ _ O
+of _ _ O
+inflammation _ _ B-SYM
+is _ _ O
+going _ _ O
+on _ _ O
+— _ _ O
+is _ _ O
+there _ _ O
+inflammation _ _ B-SYM
+elsewhere _ _ O
+in _ _ O
+the _ _ O
+body _ _ O
+? _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+' _ _ O
+The _ _ O
+skin _ _ O
+can _ _ O
+be _ _ O
+viewed _ _ O
+as _ _ O
+a _ _ O
+window _ _ O
+into _ _ O
+the _ _ O
+rest _ _ O
+of _ _ O
+the _ _ O
+body _ _ O
+because _ _ O
+it _ _ O
+is _ _ O
+inflammation _ _ B-SYM
+which _ _ O
+you _ _ O
+can _ _ O
+see _ _ O
+- _ _ O
+and _ _ O
+can _ _ O
+be _ _ O
+indicative _ _ O
+of _ _ O
+inflammation _ _ O
+elsewhere _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+figures _ _ O
+were _ _ O
+submitted _ _ O
+by _ _ O
+doctors _ _ O
+treating _ _ O
+patients _ _ O
+with _ _ O
+skin _ _ B-SYM
+issues _ _ I-SYM
+in _ _ O
+dozens _ _ O
+of _ _ O
+countries _ _ O
+around _ _ O
+the _ _ O
+world _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Researchers _ _ O
+at _ _ O
+King _ _ O
+'s _ _ O
+College _ _ O
+London _ _ O
+called _ _ O
+for _ _ O
+skin _ _ B-SYM
+rashes _ _ I-SYM
+to _ _ O
+be _ _ O
+considered _ _ O
+as _ _ O
+the _ _ O
+fourth _ _ O
+key _ _ O
+symptom _ _ O
+of _ _ O
+Covid-19 _ _ O
+in _ _ O
+July _ _ B-TIM
+, _ _ O
+after _ _ O
+a _ _ O
+cough _ _ B-SYM
+, _ _ O
+fever _ _ B-SYM
+and _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+taste _ _ I-SYM
+and _ _ I-SYM
+smell _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Their _ _ O
+research _ _ O
+found _ _ O
+characteristic _ _ O
+skin _ _ O
+rashes _ _ O
+and _ _ O
+' _ _ B-SYM
+Covid _ _ I-SYM
+fingers _ _ I-SYM
+and _ _ I-SYM
+toes _ _ I-SYM
+' _ _ O
+can _ _ O
+occur _ _ O
+in _ _ O
+the _ _ O
+absence _ _ O
+of _ _ O
+any _ _ O
+other _ _ O
+symptoms _ _ O
+and _ _ O
+affects _ _ O
+around _ _ O
+8.8 _ _ O
+per _ _ O
+cent _ _ O
+of _ _ O
+patients _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+She _ _ O
+will _ _ O
+remain _ _ O
+at _ _ O
+their _ _ O
+home _ _ O
+in _ _ O
+Rehoboth _ _ O
+Beach _ _ O
+, _ _ O
+Delaware _ _ B-LOC
+. _ _ O
+” _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+With _ _ O
+tick _ _ O
+season _ _ O
+in _ _ O
+swing _ _ O
+, _ _ O
+many _ _ O
+may _ _ O
+think _ _ O
+their _ _ O
+fever _ _ B-SYM
+- _ _ I-SYM
+like _ _ I-SYM
+sickness _ _ I-SYM
+is _ _ O
+caused _ _ O
+by _ _ O
+Covid _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+But _ _ O
+Lyme _ _ O
+disease _ _ O
+still _ _ O
+remains _ _ O
+a _ _ O
+relatively _ _ O
+little _ _ O
+- _ _ O
+known _ _ O
+illness _ _ O
+in _ _ O
+the _ _ O
+UK _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Ticks _ _ O
+that _ _ O
+carry _ _ O
+Lyme _ _ O
+disease _ _ O
+are _ _ O
+found _ _ O
+all _ _ O
+over _ _ O
+the _ _ O
+UK _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+High _ _ O
+- _ _ O
+risk _ _ O
+areas _ _ O
+include _ _ O
+grassy _ _ O
+and _ _ O
+wooded _ _ O
+areas _ _ O
+found _ _ O
+in _ _ O
+both _ _ O
+southern _ _ O
+and _ _ O
+northern _ _ O
+England _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Fever _ _ B-SYM
+and _ _ O
+chills _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Headache _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Fatigue _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Fever _ _ B-SYM
+or _ _ I-SYM
+chills _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Cough _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Shortness _ _ B-SYM
+of _ _ I-SYM
+breath _ _ I-SYM
+or _ _ O
+difficulty _ _ B-SYM
+breathing _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Fatigue _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Muscle _ _ B-SYM
+or _ _ I-SYM
+body _ _ I-SYM
+aches _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Headache _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+New _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+taste _ _ I-SYM
+or _ _ I-SYM
+smell _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Sore _ _ B-SYM
+throat _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Congestion _ _ B-SYM
+or _ _ O
+runny _ _ B-SYM
+nose _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Nausea _ _ B-SYM
+or _ _ O
+vomiting _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Diarrhoea _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+“ _ _ O
+Tick _ _ O
+- _ _ O
+borne _ _ O
+microbes _ _ O
+, _ _ O
+on _ _ O
+the _ _ O
+other _ _ O
+hand _ _ O
+, _ _ O
+enter _ _ O
+the _ _ O
+body _ _ O
+through _ _ O
+the _ _ O
+skin _ _ O
+and _ _ O
+bloodstream _ _ O
+, _ _ O
+so _ _ O
+symptoms _ _ O
+often _ _ O
+include _ _ O
+rashes _ _ B-SYM
+and _ _ O
+odd _ _ O
+systematic _ _ O
+symptoms _ _ O
+. _ _ O
+” _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Internal _ _ O
+medicine _ _ O
+physician _ _ O
+Andrew _ _ O
+Vasey _ _ O
+, _ _ O
+MD _ _ O
+, _ _ O
+sees _ _ O
+a _ _ O
+variety _ _ O
+of _ _ O
+long _ _ O
+COVID _ _ O
+patients _ _ O
+in _ _ O
+the _ _ O
+Nebraska _ _ B-LOC
+Medicine _ _ O
+Post _ _ O
+- _ _ O
+Acute _ _ O
+COVID _ _ O
+Clinic _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Mood _ _ B-SYM
+disorders _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+People _ _ O
+have _ _ O
+developed _ _ O
+depression _ _ B-SYM
+and _ _ O
+anxiety _ _ B-SYM
+after _ _ O
+their _ _ O
+COVID-19 _ _ O
+infection _ _ O
+, _ _ O
+" _ _ O
+says _ _ O
+Dr. _ _ O
+Vasey _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+For _ _ O
+others _ _ O
+, _ _ O
+their _ _ O
+preexisting _ _ O
+mood _ _ B-SYM
+disorder _ _ I-SYM
+can _ _ O
+get _ _ O
+worse _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Sleep _ _ B-SYM
+issues _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+COVID-19 _ _ O
+survivors _ _ O
+may _ _ O
+experience _ _ O
+insomnia _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Breathing _ _ B-SYM
+problems _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Shortness _ _ B-SYM
+of _ _ I-SYM
+breath _ _ I-SYM
+means _ _ O
+you _ _ O
+'re _ _ O
+consciously _ _ O
+thinking _ _ O
+about _ _ O
+breathing _ _ O
+and _ _ O
+having _ _ O
+difficulty _ _ O
+doing _ _ O
+so _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ B-SYM
+Shortness _ _ I-SYM
+of _ _ I-SYM
+breath _ _ I-SYM
+is _ _ O
+a _ _ O
+common _ _ O
+issue _ _ O
+seen _ _ O
+in _ _ O
+our _ _ O
+clinic _ _ O
+, _ _ O
+" _ _ O
+says _ _ O
+Dr. _ _ O
+Vasey _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+Patients _ _ O
+can _ _ O
+experience _ _ O
+shortness _ _ B-SYM
+of _ _ I-SYM
+breath _ _ I-SYM
+after _ _ O
+exertion _ _ O
+or _ _ O
+even _ _ O
+at _ _ O
+rest _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+A _ _ O
+persistent _ _ B-SYM
+cough _ _ I-SYM
+is _ _ O
+also _ _ O
+a _ _ O
+common _ _ O
+post- _ _ O
+COVID _ _ O
+symptom _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Brain _ _ B-SYM
+dysfunction _ _ I-SYM
+, _ _ O
+including _ _ O
+brain _ _ B-SYM
+fog _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Brain _ _ B-SYM
+fog _ _ I-SYM
+( _ _ O
+or _ _ O
+trouble _ _ B-SYM
+concentrating _ _ I-SYM
+) _ _ O
+is _ _ O
+a _ _ O
+common _ _ O
+long _ _ O
+- _ _ O
+COVID _ _ O
+symptom _ _ O
+, _ _ O
+and _ _ O
+may _ _ O
+persist _ _ O
+for _ _ O
+weeks _ _ O
+or _ _ O
+longer _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ B-SYM
+Brain _ _ I-SYM
+dysfunction _ _ I-SYM
+after _ _ O
+COVID-19 _ _ O
+infection _ _ O
+is _ _ O
+quite _ _ O
+common _ _ O
+, _ _ O
+" _ _ O
+says _ _ O
+Thomas _ _ O
+Scott _ _ O
+Diesing _ _ O
+, _ _ O
+MD _ _ O
+, _ _ O
+Nebraska _ _ O
+Medicine _ _ O
+neurologist _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+Long _ _ O
+- _ _ O
+COVID _ _ O
+symptoms _ _ O
+can _ _ O
+include _ _ O
+inattention _ _ B-SYM
+, _ _ O
+cognitive _ _ B-SYM
+troubles _ _ I-SYM
+, _ _ O
+fatigue _ _ B-SYM
+, _ _ O
+behavioral _ _ B-SYM
+troubles _ _ I-SYM
+and _ _ O
+other _ _ O
+neurological _ _ O
+symptoms _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Less _ _ O
+frequently _ _ O
+, _ _ O
+long _ _ O
+COVID _ _ O
+can _ _ O
+cause _ _ O
+chronic _ _ B-SYM
+fatigue _ _ I-SYM
+syndrome _ _ O
+( _ _ O
+CFS _ _ O
+) _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Heart _ _ B-SYM
+issues _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Long _ _ O
+after _ _ O
+someone _ _ O
+'s _ _ O
+original _ _ O
+infection _ _ O
+, _ _ O
+they _ _ O
+may _ _ O
+experience _ _ O
+chest _ _ O
+tightness _ _ B-SYM
+or _ _ I-SYM
+chest _ _ I-SYM
+pain _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+We _ _ O
+'ve _ _ O
+had _ _ O
+patients _ _ O
+experiencing _ _ O
+symptoms _ _ O
+of _ _ O
+chest _ _ B-SYM
+pain _ _ I-SYM
+/ _ _ I-SYM
+tightness _ _ I-SYM
+or _ _ O
+their _ _ O
+heart _ _ O
+racing _ _ O
+over _ _ O
+a _ _ O
+year _ _ O
+out _ _ O
+from _ _ O
+their _ _ O
+original _ _ O
+infection _ _ O
+, _ _ O
+" _ _ O
+says _ _ O
+Dr. _ _ O
+Vasey _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Heart _ _ O
+issues _ _ O
+can _ _ O
+also _ _ O
+contribute _ _ O
+to _ _ O
+the _ _ O
+post _ _ O
+- _ _ O
+COVID _ _ O
+symptoms _ _ O
+of _ _ O
+lightheadedness _ _ B-SYM
+, _ _ O
+dizziness _ _ B-SYM
+and _ _ O
+vertigo _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Myocarditis _ _ B-SYM
+or _ _ O
+heart _ _ B-SYM
+inflammation _ _ I-SYM
+can _ _ O
+be _ _ O
+seen _ _ O
+after _ _ O
+COVID-19 _ _ O
+infection _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Importantly _ _ O
+, _ _ O
+myocarditis _ _ B-SYM
+caused _ _ O
+by _ _ O
+the _ _ O
+virus _ _ O
+tends _ _ O
+to _ _ O
+be _ _ O
+much _ _ O
+more _ _ O
+severe _ _ O
+than _ _ O
+myocarditis _ _ O
+caused _ _ O
+by _ _ O
+the _ _ O
+Johnson _ _ O
+& _ _ O
+Johnson _ _ O
+vaccine _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+COVID-19 _ _ O
+survivors _ _ O
+can _ _ O
+also _ _ O
+develop _ _ O
+a _ _ O
+cardiovascular _ _ B-SYM
+condition _ _ I-SYM
+called _ _ O
+postural _ _ B-SYM
+orthostatic _ _ I-SYM
+tachycardia _ _ I-SYM
+syndrome _ _ I-SYM
+( _ _ O
+POTS _ _ O
+) _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Loss _ _ B-SYM
+of _ _ I-SYM
+taste _ _ I-SYM
+or _ _ I-SYM
+smell _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+One _ _ O
+alarming _ _ O
+symptom _ _ O
+of _ _ O
+post _ _ O
+- _ _ O
+COVID _ _ O
+syndrome _ _ O
+is _ _ O
+the _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+taste _ _ I-SYM
+and _ _ I-SYM
+smell _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+vast _ _ O
+majority _ _ O
+of _ _ O
+people _ _ O
+recover _ _ O
+their _ _ O
+sense _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+in _ _ O
+two _ _ O
+or _ _ O
+three _ _ O
+weeks _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+7 _ _ O
+. _ _ O
+Hair _ _ B-SYM
+loss _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+Diffuse _ _ O
+hair _ _ B-SYM
+loss _ _ I-SYM
+can _ _ O
+surprise _ _ O
+people _ _ O
+in _ _ O
+the _ _ O
+months _ _ O
+after _ _ O
+their _ _ O
+infection _ _ O
+, _ _ O
+" _ _ O
+says _ _ O
+Dr. _ _ O
+Vasey _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Hair _ _ B-SYM
+loss _ _ I-SYM
+can _ _ O
+also _ _ O
+happen _ _ O
+with _ _ O
+other _ _ O
+types _ _ O
+of _ _ O
+infections _ _ O
+when _ _ O
+fevers _ _ B-SYM
+are _ _ O
+present _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Skin _ _ B-SYM
+rashes _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Skin _ _ B-SYM
+rashes _ _ I-SYM
+can _ _ O
+include _ _ O
+small _ _ O
+bumps _ _ O
+, _ _ O
+discolored _ _ O
+areas _ _ O
+or _ _ O
+blisters _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+COVID-19 _ _ O
+primarily _ _ O
+targets _ _ O
+the _ _ O
+human _ _ O
+respiratory _ _ O
+system _ _ O
+, _ _ O
+with _ _ O
+commonly _ _ O
+reported _ _ O
+symptoms _ _ O
+, _ _ O
+such _ _ O
+as _ _ O
+fever _ _ B-SYM
+, _ _ O
+shortness _ _ B-SYM
+of _ _ I-SYM
+breath _ _ I-SYM
+, _ _ O
+cough _ _ B-SYM
+, _ _ O
+muscle _ _ B-SYM
+aches _ _ I-SYM
+, _ _ O
+fatigue _ _ B-SYM
+, _ _ O
+headache _ _ B-SYM
+, _ _ O
+sore _ _ B-SYM
+throat _ _ I-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+( _ _ I-SYM
+anosmia _ _ I-SYM
+) _ _ I-SYM
+, _ _ I-SYM
+or _ _ I-SYM
+taste _ _ I-SYM
+( _ _ I-SYM
+ageusia _ _ I-SYM
+/ _ _ I-SYM
+dysgeusia _ _ I-SYM
+) _ _ I-SYM
+, _ _ O
+nausea _ _ B-SYM
+/ _ _ I-SYM
+vomiting _ _ I-SYM
+, _ _ O
+and _ _ O
+congestion _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+As _ _ O
+part _ _ O
+of _ _ O
+this _ _ O
+study _ _ O
+performed _ _ O
+in _ _ O
+Israel _ _ O
+during _ _ O
+April _ _ B-TIM
+and _ _ I-TIM
+May _ _ I-TIM
+2020 _ _ I-TIM
+, _ _ O
+the _ _ O
+researchers _ _ O
+conducted _ _ O
+phone _ _ O
+interviews _ _ O
+and _ _ O
+follow _ _ O
+- _ _ O
+ups _ _ O
+with _ _ O
+112 _ _ O
+adult _ _ O
+COVID-19 _ _ O
+patients _ _ O
+with _ _ O
+mild _ _ O
+symptoms _ _ O
+over _ _ O
+6 _ _ O
+weeks _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Smell _ _ B-SYM
+and _ _ I-SYM
+taste _ _ I-SYM
+changes _ _ I-SYM
+lasted _ _ O
+longer _ _ O
+than _ _ O
+other _ _ O
+symptoms _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+One _ _ O
+- _ _ O
+third _ _ O
+of _ _ O
+the _ _ O
+patients _ _ O
+who _ _ O
+experienced _ _ O
+cough _ _ B-SYM
+, _ _ O
+anosmia _ _ B-SYM
+and _ _ O
+taste _ _ B-SYM
+changes _ _ I-SYM
+had _ _ O
+these _ _ O
+symptoms _ _ O
+even _ _ O
+after _ _ O
+they _ _ O
+tested _ _ O
+negative _ _ O
+in _ _ O
+RT _ _ O
+- _ _ O
+PCR _ _ O
+tests _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+extent _ _ O
+of _ _ O
+olfactory _ _ B-SYM
+changes _ _ I-SYM
+is _ _ O
+directly _ _ O
+associated _ _ O
+with _ _ O
+time _ _ O
+taken _ _ O
+for _ _ O
+smell _ _ O
+recovery _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Malinda _ _ O
+Ann _ _ O
+Hill _ _ O
+decided _ _ O
+to _ _ O
+resume _ _ O
+treatment _ _ O
+for _ _ O
+her _ _ O
+eating _ _ O
+disorder _ _ O
+almost _ _ O
+as _ _ O
+soon _ _ O
+as _ _ O
+she _ _ O
+shifted _ _ O
+to _ _ O
+working _ _ O
+remotely _ _ O
+in _ _ O
+March _ _ B-TIM
+2020 _ _ I-TIM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+“ _ _ O
+I _ _ O
+had _ _ O
+made _ _ O
+a _ _ O
+really _ _ O
+distinct _ _ O
+decision _ _ O
+not _ _ O
+to _ _ O
+work _ _ O
+from _ _ O
+home _ _ O
+, _ _ O
+so _ _ O
+that _ _ O
+sent _ _ O
+me _ _ O
+into _ _ O
+a _ _ O
+tailspin _ _ O
+, _ _ O
+” _ _ O
+said _ _ O
+Ms. _ _ O
+Hill _ _ O
+, _ _ O
+49 _ _ O
+, _ _ O
+who _ _ O
+lives _ _ O
+with _ _ O
+her _ _ O
+daughter _ _ O
+in _ _ O
+Wynnewood _ _ B-LOC
+, _ _ I-LOC
+Pa. _ _ I-LOC
+, _ _ O
+and _ _ O
+works _ _ O
+as _ _ O
+an _ _ O
+art _ _ O
+therapist _ _ O
+and _ _ O
+bereavement _ _ O
+coordinator _ _ O
+for _ _ O
+a _ _ O
+local _ _ O
+hospital _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Blocked _ _ B-SYM
+Nose _ _ I-SYM
+And _ _ O
+2 _ _ O
+Other _ _ O
+Top _ _ O
+Signs _ _ O
+of _ _ O
+COVID _ _ O
+Infection _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Blocked _ _ B-SYM
+Nose _ _ I-SYM
+And _ _ O
+2 _ _ O
+Other _ _ O
+Signs _ _ O
+COVID _ _ O
+Infected _ _ O
+Patients _ _ O
+May _ _ O
+Notice _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+In _ _ O
+the _ _ O
+last _ _ O
+couple _ _ O
+of _ _ O
+weeks _ _ O
+, _ _ O
+China _ _ B-LOC
+has _ _ O
+witnessed _ _ O
+a _ _ O
+massive _ _ O
+surge _ _ O
+in _ _ O
+its _ _ O
+daily _ _ O
+COVID _ _ O
+cases _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Two _ _ O
+of _ _ O
+the _ _ O
+variants _ _ O
+which _ _ O
+are _ _ O
+circulating _ _ O
+in _ _ O
+China _ _ B-LOC
+, _ _ O
+US _ _ B-LOC
+, _ _ O
+South _ _ B-LOC
+Korea _ _ I-LOC
+, _ _ O
+and _ _ O
+Japan _ _ B-LOC
+are _ _ O
+-- _ _ O
+BF.7 _ _ O
+, _ _ O
+and _ _ O
+XBB.1.5 _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+These _ _ O
+variants _ _ O
+are _ _ O
+not _ _ O
+only _ _ O
+driving _ _ O
+new _ _ O
+COVID _ _ O
+surge _ _ O
+in _ _ O
+China _ _ B-LOC
+and _ _ O
+the _ _ B-LOC
+United _ _ I-LOC
+States _ _ I-LOC
+but _ _ O
+are _ _ O
+also _ _ O
+giving _ _ O
+major _ _ O
+challenges _ _ O
+to _ _ O
+others _ _ O
+at _ _ O
+high _ _ O
+- _ _ O
+risk _ _ O
+countries _ _ O
+by _ _ O
+forcing _ _ O
+them _ _ O
+to _ _ O
+brace _ _ O
+for _ _ O
+any _ _ O
+unpredictable _ _ O
+condition _ _ O
+or _ _ O
+sudden _ _ O
+COVID _ _ O
+outbreak _ _ O
+in _ _ O
+the _ _ O
+upcoming _ _ O
+days _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Sore _ _ B-SYM
+Throat _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+One _ _ O
+of _ _ O
+the _ _ O
+most _ _ O
+dominant _ _ O
+symptoms _ _ O
+of _ _ O
+COVID _ _ O
+infection _ _ O
+and _ _ O
+also _ _ O
+, _ _ O
+the _ _ O
+earliest _ _ O
+sign _ _ O
+to _ _ O
+identify _ _ O
+that _ _ O
+you _ _ O
+have _ _ O
+contracted _ _ O
+the _ _ O
+virus _ _ O
+is _ _ O
+a _ _ O
+sore _ _ B-SYM
+throat _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+After _ _ O
+catching _ _ O
+the _ _ O
+virus _ _ O
+infection _ _ O
+, _ _ O
+the _ _ O
+patients _ _ O
+may _ _ O
+complain _ _ O
+of _ _ O
+feeling _ _ O
+discomfort _ _ B-SYM
+, _ _ I-SYM
+pain _ _ I-SYM
+, _ _ I-SYM
+or _ _ I-SYM
+scratchiness _ _ I-SYM
+in _ _ I-SYM
+their _ _ I-SYM
+throats _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Runny _ _ B-SYM
+Nose _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+One _ _ O
+of _ _ O
+the _ _ O
+most _ _ O
+common _ _ O
+symptoms _ _ O
+of _ _ O
+COVID-19 _ _ O
+infection _ _ O
+is _ _ O
+a _ _ O
+runny _ _ B-SYM
+nose _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Blocked _ _ B-SYM
+Nose _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+A _ _ O
+blocked _ _ B-SYM
+nose _ _ I-SYM
+, _ _ O
+also _ _ O
+known _ _ O
+as _ _ O
+nasal _ _ B-SYM
+congestion _ _ I-SYM
+is _ _ O
+a _ _ O
+condition _ _ O
+wherein _ _ O
+the _ _ O
+blood _ _ O
+vessels _ _ O
+present _ _ O
+inside _ _ O
+the _ _ O
+nose _ _ O
+become _ _ O
+inflamed _ _ O
+with _ _ O
+an _ _ O
+excess _ _ O
+amount _ _ O
+of _ _ O
+fluid _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Sneezing _ _ B-SYM
+Dry _ _ B-SYM
+cough _ _ I-SYM
+Chronic _ _ B-SYM
+headache _ _ I-SYM
+Wet _ _ B-SYM
+cough _ _ I-SYM
+with _ _ O
+phlegm _ _ O
+Hoarse _ _ O
+voice _ _ O
+Muscle _ _ B-SYM
+aches _ _ I-SYM
+and _ _ I-SYM
+pains _ _ I-SYM
+Loss _ _ B-SYM
+of _ _ I-SYM
+taste _ _ I-SYM
+and _ _ I-SYM
+smell _ _ I-SYM
+High _ _ B-SYM
+fever _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Extreme _ _ B-SYM
+fatigue _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+A _ _ O
+subgroup _ _ O
+of _ _ O
+patients _ _ O
+may _ _ O
+have _ _ O
+digestive _ _ O
+symptoms _ _ O
+, _ _ O
+such _ _ O
+as _ _ O
+diarrhea _ _ O
+, _ _ O
+as _ _ O
+their _ _ O
+only _ _ O
+symptom _ _ O
+of _ _ O
+COVID-19 _ _ O
+, _ _ O
+with _ _ O
+or _ _ O
+without _ _ O
+ever _ _ O
+developing _ _ O
+respiratory _ _ O
+symptoms _ _ O
+or _ _ O
+even _ _ O
+a _ _ O
+fever _ _ O
+, _ _ O
+reported _ _ O
+Xiaohua _ _ O
+Hou _ _ O
+, _ _ O
+MD _ _ O
+, _ _ O
+PhD _ _ O
+, _ _ O
+of _ _ O
+Huazhong _ _ O
+University _ _ O
+of _ _ O
+Science _ _ O
+and _ _ O
+Technology _ _ O
+in _ _ O
+Wuhan _ _ B-LOC
+, _ _ O
+China _ _ B-LOC
+, _ _ O
+and _ _ O
+colleagues _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+This _ _ O
+is _ _ O
+about _ _ O
+the _ _ O
+more _ _ O
+common _ _ O
+scenario _ _ O
+of _ _ O
+people _ _ O
+in _ _ O
+the _ _ O
+community _ _ O
+struggling _ _ O
+to _ _ O
+figure _ _ O
+out _ _ O
+if _ _ O
+they _ _ O
+might _ _ O
+have _ _ O
+COVID-19 _ _ O
+because _ _ O
+of _ _ O
+new _ _ O
+- _ _ O
+onset _ _ O
+diarrhea _ _ B-SYM
+, _ _ O
+nausea _ _ B-SYM
+, _ _ O
+or _ _ O
+vomiting _ _ B-SYM
+, _ _ O
+" _ _ O
+Brennan _ _ O
+M.R. _ _ O
+Spiegel _ _ O
+, _ _ O
+MD _ _ O
+, _ _ O
+the _ _ O
+journal _ _ O
+'s _ _ O
+co _ _ O
+- _ _ O
+editor _ _ O
+- _ _ O
+in _ _ O
+- _ _ O
+chief _ _ O
+, _ _ O
+said _ _ O
+in _ _ O
+a _ _ O
+statement _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+Because _ _ O
+COVID-19 _ _ O
+testing _ _ O
+has _ _ O
+largely _ _ O
+focused _ _ O
+on _ _ O
+patients _ _ O
+with _ _ O
+respiratory _ _ O
+symptoms _ _ O
+-- _ _ O
+not _ _ O
+digestive _ _ O
+symptoms _ _ O
+-- _ _ O
+it _ _ O
+is _ _ O
+possible _ _ O
+there _ _ O
+is _ _ O
+a _ _ O
+large _ _ O
+cohort _ _ O
+of _ _ O
+undiagnosed _ _ O
+patients _ _ O
+with _ _ O
+low _ _ O
+severity _ _ O
+illness _ _ O
+but _ _ O
+with _ _ O
+digestive _ _ O
+symptoms _ _ O
+, _ _ O
+such _ _ O
+as _ _ O
+diarrhea _ _ B-SYM
+, _ _ O
+who _ _ O
+unknowingly _ _ O
+spread _ _ O
+the _ _ O
+virus _ _ O
+, _ _ O
+" _ _ O
+Hou _ _ O
+and _ _ O
+colleagues _ _ O
+wrote _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+They _ _ O
+examined _ _ O
+data _ _ O
+from _ _ O
+206 _ _ O
+patients _ _ O
+from _ _ O
+a _ _ O
+single _ _ O
+hospital _ _ O
+, _ _ O
+including _ _ O
+48 _ _ O
+who _ _ O
+only _ _ O
+presented _ _ O
+with _ _ O
+a _ _ O
+digestive _ _ O
+symptom _ _ O
+( _ _ B-SYM
+diarrhea _ _ I-SYM
+, _ _ O
+nausea _ _ B-SYM
+, _ _ O
+vomiting _ _ B-SYM
+) _ _ O
+, _ _ O
+69 _ _ O
+who _ _ O
+presented _ _ O
+with _ _ O
+both _ _ O
+digestive _ _ O
+and _ _ O
+respiratory _ _ O
+symptoms _ _ O
+, _ _ O
+and _ _ O
+89 _ _ O
+with _ _ O
+respiratory _ _ O
+symptoms _ _ O
+alone _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Interestingly _ _ O
+, _ _ O
+the _ _ O
+digestive _ _ O
+and _ _ O
+respiratory _ _ O
+group _ _ O
+was _ _ O
+more _ _ O
+likely _ _ O
+to _ _ O
+report _ _ O
+shortness _ _ B-SYM
+of _ _ I-SYM
+breath _ _ I-SYM
+, _ _ O
+fatigue _ _ B-SYM
+, _ _ O
+and _ _ O
+muscle _ _ B-SYM
+soreness _ _ I-SYM
+versus _ _ O
+the _ _ O
+respiratory _ _ O
+- _ _ O
+only _ _ O
+group _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Among _ _ O
+the _ _ O
+group _ _ O
+who _ _ O
+had _ _ O
+GI _ _ O
+symptoms _ _ O
+, _ _ O
+67 _ _ O
+had _ _ O
+diarrhea _ _ B-SYM
+, _ _ I-SYM
+with _ _ O
+an _ _ O
+average _ _ O
+duration _ _ O
+of _ _ O
+over _ _ O
+5 _ _ O
+days _ _ O
+, _ _ O
+and _ _ O
+a _ _ O
+frequency _ _ O
+of _ _ O
+around _ _ O
+four _ _ O
+bowel _ _ O
+movements _ _ O
+per _ _ O
+day _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+They _ _ O
+noted _ _ O
+concurrent _ _ O
+fever _ _ B-SYM
+in _ _ O
+62 _ _ O
+% _ _ O
+of _ _ O
+patients _ _ O
+with _ _ O
+a _ _ O
+digestive _ _ O
+symptom _ _ O
+, _ _ O
+meaning _ _ O
+almost _ _ O
+40 _ _ O
+% _ _ O
+did _ _ O
+not _ _ O
+have _ _ O
+fever _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Disclosures _ _ O
+The _ _ O
+study _ _ O
+was _ _ O
+supported _ _ O
+by _ _ O
+grants _ _ O
+of _ _ O
+novel _ _ O
+coronavirus _ _ O
+pneumonia _ _ O
+emergency _ _ O
+science _ _ O
+and _ _ O
+technology _ _ O
+projects _ _ O
+from _ _ O
+the _ _ O
+Science _ _ O
+and _ _ O
+Technology _ _ O
+Department _ _ O
+of _ _ O
+Hubei _ _ O
+Province _ _ O
+, _ _ O
+Wuhan _ _ B-LOC
+, _ _ O
+China _ _ B-LOC
+, _ _ O
+the _ _ O
+National _ _ O
+Natural _ _ O
+Science _ _ O
+Foundation _ _ O
+of _ _ O
+China _ _ O
+, _ _ O
+and _ _ O
+International _ _ O
+( _ _ O
+Regional _ _ O
+) _ _ O
+Cooperation _ _ O
+and _ _ O
+Exchange _ _ O
+( _ _ O
+ICE _ _ O
+) _ _ O
+Projects _ _ O
+of _ _ O
+the _ _ O
+National _ _ O
+Natural _ _ O
+Science _ _ O
+Foundation _ _ O
+of _ _ O
+China _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Primary _ _ O
+Source _ _ O
+American _ _ O
+Journal _ _ O
+of _ _ O
+Gastroenterology _ _ O
+Source _ _ O
+Reference _ _ O
+: _ _ O
+Han _ _ O
+C _ _ O
+, _ _ O
+et _ _ O
+al _ _ O
+" _ _ O
+Digestive _ _ O
+Symptoms _ _ O
+in _ _ O
+COVID-19 _ _ O
+Patients _ _ O
+with _ _ O
+Mild _ _ O
+Disease _ _ O
+Severity _ _ O
+: _ _ O
+Clinical _ _ O
+Presentation _ _ O
+, _ _ O
+Stool _ _ O
+Viral _ _ O
+RNA _ _ O
+Testing _ _ O
+, _ _ O
+and _ _ O
+Outcomes _ _ O
+" _ _ O
+Am _ _ O
+J _ _ O
+Gastroenterol _ _ O
+2020 _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Asymptomatic _ _ O
+individuals _ _ O
+carrying _ _ O
+SARS _ _ O
+- _ _ O
+CoV-2 _ _ O
+shed _ _ O
+the _ _ O
+virus _ _ O
+longer _ _ O
+than _ _ O
+those _ _ O
+with _ _ O
+COVID-19 _ _ O
+symptoms _ _ O
+, _ _ O
+with _ _ O
+other _ _ O
+lab _ _ O
+findings _ _ O
+suggesting _ _ O
+the _ _ O
+symptomatic _ _ O
+patients _ _ O
+mounted _ _ O
+more _ _ O
+robust _ _ O
+immune _ _ O
+responses _ _ O
+, _ _ O
+a _ _ O
+small _ _ O
+study _ _ O
+in _ _ O
+China _ _ B-LOC
+found _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+For _ _ O
+the _ _ O
+study _ _ O
+, _ _ O
+they _ _ O
+examined _ _ O
+data _ _ O
+from _ _ O
+178 _ _ O
+patients _ _ O
+with _ _ O
+PCR _ _ O
+- _ _ O
+confirmed _ _ O
+SARS _ _ O
+- _ _ O
+CoV-2 _ _ O
+infection _ _ O
+in _ _ O
+the _ _ O
+Wanzhou _ _ O
+District _ _ O
+in _ _ O
+China _ _ B-LOC
+, _ _ O
+including _ _ O
+37 _ _ O
+without _ _ O
+symptoms _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+She _ _ O
+is _ _ O
+a _ _ O
+2020 _ _ B-TIM
+J2 _ _ O
+Achievement _ _ O
+Award _ _ O
+winner _ _ O
+for _ _ O
+her _ _ O
+COVID-19 _ _ O
+coverage _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Primary _ _ O
+Source _ _ O
+Nature _ _ O
+Medicine _ _ O
+Source _ _ O
+Reference _ _ O
+: _ _ O
+Long _ _ O
+QX _ _ O
+, _ _ O
+et _ _ O
+al _ _ O
+" _ _ O
+Clinical _ _ O
+and _ _ O
+immunological _ _ O
+assessment _ _ O
+of _ _ O
+asymptomatic _ _ O
+SARS _ _ O
+- _ _ O
+CoV-2 _ _ O
+infections _ _ O
+" _ _ O
+Nat _ _ O
+Med _ _ O
+2020 _ _ B-TIM
+; _ _ O
+DOI _ _ O
+: _ _ O
+10.1038 _ _ O
+/ _ _ O
+s41591 _ _ O
+- _ _ O
+020 _ _ O
+- _ _ O
+0965 _ _ O
+- _ _ O
+6 _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+CBC _ _ O
+News _ _ O
+has _ _ O
+found _ _ O
+a _ _ O
+number _ _ O
+of _ _ O
+instances _ _ O
+where _ _ O
+sick _ _ O
+travellers _ _ O
+have _ _ O
+boarded _ _ O
+airplanes _ _ O
+back _ _ O
+to _ _ O
+Canada _ _ B-LOC
+, _ _ O
+no _ _ O
+matter _ _ O
+the _ _ O
+risks _ _ O
+of _ _ O
+spreading _ _ O
+infection _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+Now _ _ O
+is _ _ O
+just _ _ O
+the _ _ O
+worst _ _ O
+time _ _ O
+to _ _ O
+be _ _ O
+coughing _ _ B-SYM
+, _ _ O
+sneezing _ _ B-SYM
+or _ _ O
+reporting _ _ O
+any _ _ O
+kind _ _ O
+of _ _ O
+symptom _ _ O
+at _ _ O
+an _ _ O
+airport _ _ O
+, _ _ O
+" _ _ O
+said _ _ O
+one _ _ O
+university _ _ O
+student _ _ O
+in _ _ O
+Toronto _ _ B-LOC
+, _ _ O
+who _ _ O
+flew _ _ O
+home _ _ O
+from _ _ O
+Spain _ _ B-LOC
+on _ _ O
+March _ _ B-TIM
+14 _ _ I-TIM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+She _ _ O
+admitted _ _ O
+she _ _ O
+purposely _ _ O
+hid _ _ O
+her _ _ O
+symptoms _ _ O
+and _ _ O
+the _ _ O
+fact _ _ O
+she _ _ O
+'d _ _ O
+been _ _ O
+suffering _ _ O
+a _ _ O
+fever _ _ B-SYM
+hours _ _ O
+before _ _ O
+boarding _ _ O
+the _ _ O
+flight _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+She _ _ O
+said _ _ O
+she _ _ O
+was _ _ O
+n't _ _ O
+sick _ _ O
+when _ _ O
+she _ _ O
+bought _ _ O
+her _ _ O
+ticket _ _ O
+, _ _ O
+but _ _ O
+developed _ _ O
+a _ _ O
+fever _ _ B-SYM
+the _ _ O
+day _ _ O
+before _ _ O
+her _ _ O
+flight _ _ O
+and _ _ O
+took _ _ O
+precautions _ _ O
+to _ _ O
+wear _ _ O
+a _ _ O
+mask _ _ O
+and _ _ O
+gloves _ _ O
+on _ _ O
+the _ _ O
+plane _ _ O
+to _ _ O
+prevent _ _ O
+the _ _ O
+spread _ _ O
+of _ _ O
+any _ _ O
+illness _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+My _ _ O
+priority _ _ O
+was _ _ O
+just _ _ O
+being _ _ O
+able _ _ O
+to _ _ O
+get _ _ O
+on _ _ O
+the _ _ O
+first _ _ O
+flight _ _ O
+back _ _ O
+to _ _ O
+Canada _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Her _ _ O
+case _ _ O
+demonstrates _ _ O
+just _ _ O
+how _ _ O
+weak _ _ O
+Canada _ _ B-LOC
+'s _ _ O
+screening _ _ O
+of _ _ O
+air _ _ O
+travellers _ _ O
+is _ _ O
+, _ _ O
+given _ _ O
+it _ _ O
+relies _ _ O
+solely _ _ O
+on _ _ O
+voluntary _ _ O
+reporting _ _ O
+of _ _ O
+symptoms _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Jane _ _ O
+Salhani _ _ O
+of _ _ O
+Aurora _ _ O
+, _ _ O
+Ont _ _ O
+. _ _ O
+, _ _ O
+which _ _ O
+is _ _ O
+north _ _ O
+of _ _ O
+Toronto _ _ B-LOC
+, _ _ O
+flew _ _ O
+home _ _ O
+from _ _ O
+Munich _ _ B-LOC
+on _ _ O
+Sunday _ _ O
+aboard _ _ O
+an _ _ O
+Air _ _ O
+Canada _ _ O
+flight _ _ O
+where _ _ O
+an _ _ O
+obviously _ _ O
+sick _ _ O
+traveller _ _ O
+had _ _ O
+passengers _ _ O
+and _ _ O
+attendants _ _ O
+on _ _ O
+edge _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+She _ _ O
+coughed _ _ B-SYM
+the _ _ O
+entire _ _ O
+nine _ _ O
+hours _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Some _ _ O
+travellers _ _ O
+who _ _ O
+have _ _ O
+come _ _ O
+through _ _ O
+Canadian _ _ O
+airports _ _ O
+like _ _ O
+Toronto _ _ B-LOC
+'s _ _ O
+Pearson _ _ O
+International _ _ O
+have _ _ O
+observed _ _ O
+that _ _ O
+COVID-19 _ _ O
+screening _ _ O
+measures _ _ O
+are _ _ O
+more _ _ O
+comprehensive _ _ O
+in _ _ O
+other _ _ O
+countries _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+She _ _ O
+noted _ _ O
+the _ _ O
+sick _ _ O
+passenger _ _ O
+was _ _ O
+taken _ _ O
+aside _ _ O
+and _ _ O
+interviewed _ _ O
+on _ _ O
+arrival _ _ O
+at _ _ O
+Toronto _ _ B-LOC
+'s _ _ O
+Pearson _ _ O
+Airport _ _ O
+, _ _ O
+as _ _ O
+all _ _ O
+arriving _ _ O
+passengers _ _ O
+were _ _ O
+handed _ _ O
+pamphlets _ _ O
+instructing _ _ O
+them _ _ O
+to _ _ O
+self _ _ O
+- _ _ O
+isolate _ _ O
+for _ _ O
+14 _ _ O
+days _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+World _ _ O
+Health _ _ O
+Organization _ _ O
+issued _ _ O
+an _ _ O
+advisory _ _ O
+in _ _ O
+mid _ _ B-TIM
+- _ _ I-TIM
+February _ _ I-TIM
+calling _ _ O
+on _ _ O
+all _ _ O
+countries _ _ O
+to _ _ O
+question _ _ O
+all _ _ O
+travellers _ _ O
+about _ _ O
+symptoms _ _ O
+, _ _ O
+and _ _ O
+to _ _ O
+implement _ _ O
+" _ _ O
+detection _ _ O
+of _ _ O
+ill _ _ O
+travellers _ _ O
+" _ _ O
+at _ _ O
+airports _ _ O
+and _ _ O
+border _ _ O
+crossings _ _ O
+to _ _ O
+stem _ _ O
+the _ _ O
+COVID-19 _ _ O
+outbreak _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Canada _ _ B-LOC
+, _ _ O
+facing _ _ O
+criticism _ _ O
+over _ _ O
+a _ _ O
+lack _ _ O
+of _ _ O
+screening _ _ O
+both _ _ O
+at _ _ O
+international _ _ O
+airports _ _ O
+and _ _ O
+upon _ _ O
+arrival _ _ O
+in _ _ O
+Canada _ _ B-LOC
+, _ _ O
+imposed _ _ O
+new _ _ O
+orders _ _ O
+to _ _ O
+all _ _ O
+airlines _ _ O
+last _ _ O
+Wednesday _ _ O
+to _ _ O
+prevent _ _ O
+travellers _ _ O
+with _ _ O
+COVID-19 _ _ O
+symptoms _ _ O
+from _ _ O
+boarding _ _ O
+international _ _ O
+flights _ _ O
+to _ _ O
+Canada _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+But _ _ O
+the _ _ O
+" _ _ O
+health _ _ O
+check _ _ O
+" _ _ O
+imposed _ _ O
+by _ _ O
+Transport _ _ O
+Canada _ _ O
+— _ _ O
+billed _ _ O
+as _ _ O
+" _ _ O
+detection _ _ O
+of _ _ O
+ill _ _ O
+travellers _ _ O
+" _ _ O
+— _ _ O
+is _ _ O
+a _ _ O
+total _ _ O
+honour _ _ O
+system _ _ O
+that _ _ O
+simply _ _ O
+requires _ _ O
+airline _ _ O
+staff _ _ O
+to _ _ O
+observe _ _ O
+boarding _ _ O
+passengers _ _ O
+and _ _ O
+ask _ _ O
+them _ _ O
+if _ _ O
+they _ _ O
+'ve _ _ O
+felt _ _ O
+ill _ _ O
+or _ _ O
+have _ _ O
+had _ _ O
+a _ _ O
+fever _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+CBC _ _ O
+has _ _ O
+spoken _ _ O
+to _ _ O
+many _ _ O
+travellers _ _ O
+who _ _ O
+'ve _ _ O
+recently _ _ O
+returned _ _ O
+to _ _ O
+Canada _ _ B-LOC
+who _ _ O
+noticed _ _ O
+the _ _ O
+new _ _ O
+questions _ _ O
+posed _ _ O
+when _ _ O
+they _ _ O
+boarded _ _ O
+their _ _ O
+flights _ _ O
+home _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Eugene _ _ O
+Haslam _ _ O
+recently _ _ O
+returned _ _ O
+to _ _ O
+Montreal _ _ B-LOC
+from _ _ O
+Paris _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Eugene _ _ O
+Haslam _ _ O
+, _ _ O
+who _ _ O
+flew _ _ O
+home _ _ O
+to _ _ O
+Montreal _ _ B-LOC
+from _ _ O
+Paris _ _ B-LOC
+on _ _ O
+Sunday _ _ O
+on _ _ O
+Air _ _ O
+Transat _ _ O
+, _ _ O
+said _ _ O
+the _ _ O
+airline _ _ O
+had _ _ O
+signs _ _ O
+, _ _ O
+overhead _ _ O
+announcements _ _ O
+and _ _ O
+staff _ _ O
+asking _ _ O
+questions _ _ O
+before _ _ O
+boarding _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Canada _ _ B-LOC
+has _ _ O
+not _ _ O
+yet _ _ O
+adopted _ _ O
+measures _ _ O
+to _ _ O
+test _ _ O
+arriving _ _ O
+passengers _ _ O
+for _ _ O
+the _ _ O
+coronavirus _ _ O
+, _ _ O
+as _ _ O
+is _ _ O
+being _ _ O
+done _ _ O
+in _ _ O
+at _ _ O
+least _ _ O
+a _ _ O
+dozen _ _ O
+countries _ _ O
+around _ _ O
+the _ _ O
+world _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Commonly _ _ O
+these _ _ O
+are _ _ O
+temperature _ _ O
+checks _ _ O
+or _ _ O
+thermal _ _ O
+screenings _ _ O
+to _ _ O
+detect _ _ O
+passengers _ _ O
+with _ _ O
+a _ _ O
+fever _ _ O
+, _ _ O
+and _ _ O
+it _ _ O
+'s _ _ O
+being _ _ O
+done _ _ O
+in _ _ O
+countries _ _ O
+like _ _ O
+the _ _ O
+United _ _ B-LOC
+Arab _ _ I-LOC
+Emirates _ _ I-LOC
+, _ _ O
+South _ _ B-LOC
+Africa _ _ I-LOC
+and _ _ O
+Indonesia _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+A _ _ O
+health _ _ O
+quarantine _ _ O
+officer _ _ O
+scans _ _ O
+the _ _ O
+temperature _ _ O
+of _ _ O
+students _ _ O
+with _ _ O
+a _ _ O
+thermal _ _ O
+scanner _ _ O
+upon _ _ O
+their _ _ O
+arrival _ _ O
+at _ _ O
+Sultan _ _ O
+Mahmud _ _ O
+Badaruddin _ _ O
+International _ _ O
+Airport _ _ O
+in _ _ O
+Palembang _ _ O
+, _ _ O
+Indonesia _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+A _ _ O
+number _ _ O
+of _ _ O
+Canadians _ _ O
+flying _ _ O
+home _ _ O
+from _ _ O
+Mexico _ _ B-LOC
+this _ _ O
+past _ _ O
+week _ _ O
+report _ _ O
+that _ _ O
+airport _ _ O
+authorities _ _ O
+in _ _ O
+that _ _ O
+country _ _ O
+are _ _ O
+screening _ _ O
+all _ _ O
+passengers _ _ O
+for _ _ O
+fevers _ _ O
+using _ _ O
+thermal _ _ O
+- _ _ O
+sensing _ _ O
+cameras _ _ O
+, _ _ O
+noting _ _ O
+Canada _ _ B-LOC
+has _ _ O
+no _ _ O
+such _ _ O
+technology _ _ O
+in _ _ O
+place _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Signs _ _ O
+of _ _ O
+stepped _ _ O
+- _ _ O
+up _ _ O
+screening _ _ O
+at _ _ O
+the _ _ O
+four _ _ O
+Canadian _ _ O
+airports _ _ O
+that _ _ O
+are _ _ O
+still _ _ O
+receiving _ _ O
+international _ _ O
+flights _ _ O
+— _ _ O
+in _ _ O
+Vancouver _ _ B-LOC
+, _ _ O
+Calgary _ _ B-LOC
+, _ _ O
+Toronto _ _ B-LOC
+and _ _ O
+Montreal _ _ B-LOC
+— _ _ O
+include _ _ O
+increased _ _ O
+signage _ _ O
+and _ _ O
+additional _ _ O
+Canada _ _ B-LOC
+Border _ _ O
+Services _ _ O
+Agency _ _ O
+officers _ _ O
+asking _ _ O
+passengers _ _ O
+questions _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Flight _ _ O
+attendants _ _ O
+wear _ _ O
+masks _ _ O
+while _ _ O
+travelling _ _ O
+through _ _ O
+the _ _ O
+international _ _ O
+departures _ _ O
+area _ _ O
+at _ _ O
+Vancouver _ _ B-LOC
+’s _ _ O
+airport _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+In _ _ O
+November _ _ B-TIM
+2020 _ _ I-TIM
+, _ _ O
+Aaron _ _ O
+was _ _ O
+in _ _ O
+a _ _ O
+hospital _ _ O
+bed _ _ O
+for _ _ O
+more _ _ O
+than _ _ O
+a _ _ O
+week _ _ O
+, _ _ O
+requiring _ _ O
+oxygen _ _ O
+to _ _ O
+breathe _ _ O
+, _ _ O
+after _ _ O
+contracting _ _ O
+COVID _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+His _ _ O
+hair _ _ B-SYM
+started _ _ I-SYM
+falling _ _ I-SYM
+out _ _ I-SYM
+, _ _ O
+he _ _ O
+had _ _ O
+heart _ _ B-SYM
+problems _ _ I-SYM
+, _ _ O
+and _ _ O
+he _ _ O
+could _ _ O
+n't _ _ O
+walk _ _ O
+or _ _ O
+stand _ _ O
+for _ _ O
+a _ _ O
+month _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+A _ _ O
+recent _ _ O
+U.K. _ _ B-LOC
+study _ _ O
+found _ _ O
+that _ _ O
+COVID _ _ O
+still _ _ O
+affects _ _ O
+one _ _ O
+in _ _ O
+seven _ _ O
+kids _ _ O
+months _ _ O
+after _ _ O
+infection _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+When _ _ O
+asked _ _ O
+to _ _ O
+describe _ _ O
+long _ _ O
+- _ _ O
+hauler _ _ O
+symptoms _ _ O
+, _ _ O
+Clouser _ _ O
+said _ _ O
+, _ _ O
+" _ _ O
+In _ _ O
+children _ _ O
+, _ _ O
+we _ _ O
+tend _ _ O
+to _ _ O
+see _ _ O
+that _ _ O
+they _ _ O
+have _ _ O
+persistent _ _ B-SYM
+fatigue _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Some _ _ O
+kids _ _ O
+are _ _ O
+having _ _ O
+persistent _ _ O
+headaches _ _ O
+, _ _ O
+and _ _ O
+a _ _ O
+lot _ _ O
+of _ _ O
+kids _ _ O
+are _ _ O
+having _ _ O
+anxiety _ _ B-SYM
+symptoms _ _ O
+that _ _ O
+maybe _ _ O
+they _ _ O
+did _ _ O
+n't _ _ O
+have _ _ O
+before _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+But _ _ O
+Aaron _ _ O
+Estrada _ _ O
+had _ _ O
+no _ _ O
+known _ _ O
+pre _ _ O
+- _ _ O
+existing _ _ O
+conditions _ _ O
+– _ _ O
+nor _ _ O
+did _ _ O
+14 _ _ O
+- _ _ O
+year _ _ O
+- _ _ O
+old _ _ O
+Madison _ _ O
+Foor _ _ O
+from _ _ O
+Michigan _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+She _ _ O
+was _ _ O
+healthy _ _ O
+and _ _ O
+thriving _ _ O
+before _ _ O
+she _ _ O
+got _ _ O
+COVID _ _ O
+in _ _ O
+January _ _ B-TIM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+CDC _ _ O
+estimates _ _ O
+, _ _ O
+so _ _ O
+far _ _ O
+, _ _ O
+about _ _ O
+900,000 _ _ O
+children _ _ O
+in _ _ O
+the _ _ O
+U.S. _ _ B-LOC
+between _ _ O
+ages _ _ O
+five _ _ O
+and _ _ O
+11 _ _ O
+have _ _ O
+received _ _ O
+their _ _ O
+first _ _ O
+dose _ _ O
+of _ _ O
+the _ _ O
+COVID _ _ O
+vaccine _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Researchers _ _ O
+from _ _ O
+King _ _ O
+'s _ _ O
+College _ _ O
+London _ _ O
+studied _ _ O
+data _ _ O
+from _ _ O
+approximately _ _ O
+1,600 _ _ O
+U.K. _ _ B-LOC
+and _ _ O
+U.S. _ _ B-LOC
+patients _ _ I-LOC
+who _ _ O
+regularly _ _ O
+logged _ _ O
+their _ _ O
+symptoms _ _ O
+in _ _ O
+the _ _ O
+COVID _ _ O
+Symptom _ _ O
+Tracker _ _ O
+App _ _ O
+in _ _ O
+March _ _ B-TIM
+and _ _ O
+April _ _ B-TIM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Typically _ _ O
+, _ _ O
+doctors _ _ O
+will _ _ O
+look _ _ O
+for _ _ O
+key _ _ O
+symptoms _ _ O
+such _ _ O
+as _ _ O
+cough _ _ B-SYM
+, _ _ O
+fever _ _ B-SYM
+and _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+the _ _ I-SYM
+sense _ _ I-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+to _ _ O
+detect _ _ O
+COVID-19 _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+Among _ _ O
+the _ _ O
+patients _ _ O
+I _ _ O
+see _ _ O
+, _ _ O
+those _ _ O
+who _ _ O
+recovered _ _ O
+, _ _ O
+many _ _ O
+of _ _ O
+them _ _ O
+present _ _ O
+different _ _ O
+ways _ _ O
+: _ _ O
+some _ _ O
+people _ _ O
+with _ _ O
+fever _ _ B-SYM
+and _ _ O
+some _ _ O
+without _ _ O
+fever _ _ B-SYM
+, _ _ O
+and _ _ O
+some _ _ O
+with _ _ O
+nausea _ _ B-SYM
+and _ _ O
+vomiting _ _ B-SYM
+, _ _ O
+some _ _ O
+people _ _ O
+with _ _ O
+diarrhea _ _ B-SYM
+, _ _ O
+etc _ _ O
+. _ _ O
+" _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Flu _ _ O
+- _ _ O
+like _ _ O
+with _ _ O
+no _ _ B-SYM
+fever _ _ I-SYM
+: _ _ O
+Headache _ _ B-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+muscle _ _ B-SYM
+pains _ _ I-SYM
+, _ _ O
+cough _ _ B-SYM
+, _ _ O
+sore _ _ B-SYM
+throat _ _ I-SYM
+, _ _ O
+chest _ _ B-SYM
+pain _ _ I-SYM
+, _ _ O
+no _ _ O
+fever _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Flu _ _ O
+- _ _ O
+like _ _ O
+with _ _ O
+fever _ _ B-SYM
+: _ _ O
+Headache _ _ B-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+cough _ _ B-SYM
+, _ _ O
+sore _ _ B-SYM
+throat _ _ I-SYM
+, _ _ O
+hoarseness _ _ B-SYM
+, _ _ O
+fever _ _ B-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+appetite _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Gastrointestinal _ _ O
+: _ _ O
+Headache _ _ B-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+appetite _ _ I-SYM
+, _ _ O
+diarrhea _ _ B-SYM
+, _ _ O
+sore _ _ B-SYM
+throat _ _ I-SYM
+, _ _ O
+chest _ _ B-SYM
+pain _ _ I-SYM
+, _ _ O
+no _ _ B-SYM
+cough _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Severe _ _ O
+level _ _ O
+one _ _ O
+, _ _ O
+fatigue _ _ B-SYM
+: _ _ O
+Headache _ _ B-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+cough _ _ B-SYM
+, _ _ O
+fever _ _ B-SYM
+, _ _ O
+hoarseness _ _ B-SYM
+, _ _ O
+chest _ _ B-SYM
+pain _ _ I-SYM
+, _ _ O
+fatigue _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Severe _ _ O
+level _ _ O
+two _ _ O
+, _ _ O
+confusion _ _ O
+: _ _ O
+Headache _ _ B-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+appetite _ _ I-SYM
+, _ _ O
+cough _ _ B-SYM
+, _ _ O
+fever _ _ B-SYM
+, _ _ O
+hoarseness _ _ B-SYM
+, _ _ O
+sore _ _ B-SYM
+throat _ _ I-SYM
+, _ _ O
+chest _ _ B-SYM
+pain _ _ I-SYM
+, _ _ O
+fatigue _ _ B-SYM
+, _ _ O
+confusion _ _ B-SYM
+, _ _ O
+muscle _ _ B-SYM
+pain _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Severe _ _ O
+level _ _ O
+three _ _ O
+, _ _ O
+abdominal _ _ O
+and _ _ O
+respiratory _ _ O
+: _ _ O
+Headache _ _ B-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+appetite _ _ I-SYM
+, _ _ O
+cough _ _ B-SYM
+, _ _ O
+fever _ _ B-SYM
+, _ _ O
+hoarseness _ _ B-SYM
+, _ _ O
+sore _ _ B-SYM
+throat _ _ I-SYM
+, _ _ O
+chest _ _ B-SYM
+pain _ _ I-SYM
+, _ _ O
+fatigue _ _ B-SYM
+, _ _ O
+confusion _ _ B-SYM
+, _ _ O
+muscle _ _ B-SYM
+pain _ _ I-SYM
+, _ _ O
+shortness _ _ B-SYM
+of _ _ I-SYM
+breath _ _ I-SYM
+, _ _ O
+diarrhea _ _ B-SYM
+, _ _ O
+abdominal _ _ B-SYM
+pain _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+first _ _ O
+level _ _ O
+, _ _ O
+" _ _ O
+flu _ _ O
+- _ _ O
+like _ _ O
+with _ _ O
+no _ _ O
+fever _ _ B-SYM
+, _ _ O
+" _ _ O
+is _ _ O
+associated _ _ O
+with _ _ O
+headaches _ _ B-SYM
+, _ _ I-SYM
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+muscle _ _ B-SYM
+pains _ _ I-SYM
+, _ _ O
+cough _ _ B-SYM
+, _ _ O
+sore _ _ B-SYM
+throat _ _ I-SYM
+and _ _ O
+chest _ _ B-SYM
+pain _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+second _ _ O
+type _ _ O
+, _ _ O
+" _ _ O
+flu _ _ O
+- _ _ O
+like _ _ O
+with _ _ O
+fever _ _ B-SYM
+, _ _ O
+" _ _ O
+includes _ _ O
+symptoms _ _ O
+like _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+appetite _ _ I-SYM
+, _ _ O
+headache _ _ B-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+cough _ _ B-SYM
+, _ _ O
+sore _ _ B-SYM
+throat _ _ I-SYM
+, _ _ O
+hoarseness _ _ B-SYM
+and _ _ O
+fever _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Patients _ _ O
+with _ _ O
+the _ _ O
+third _ _ O
+type _ _ O
+, _ _ O
+simply _ _ O
+described _ _ O
+as _ _ O
+" _ _ O
+gastrointestinal _ _ O
+, _ _ O
+" _ _ O
+do _ _ O
+not _ _ O
+have _ _ O
+a _ _ O
+cough _ _ B-SYM
+as _ _ O
+part _ _ O
+of _ _ O
+their _ _ O
+illness _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Instead _ _ O
+, _ _ O
+they _ _ O
+experience _ _ O
+headache _ _ B-SYM
+, _ _ O
+diarrhea _ _ B-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+appetite _ _ I-SYM
+, _ _ O
+sore _ _ B-SYM
+throat _ _ I-SYM
+and _ _ O
+chest _ _ B-SYM
+pain _ _ I-SYM
+, _ _ O
+and _ _ O
+about _ _ O
+3.3 _ _ O
+% _ _ O
+needed _ _ O
+breathing _ _ O
+support _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+In _ _ O
+type _ _ O
+four _ _ O
+, _ _ O
+or _ _ O
+" _ _ O
+severe _ _ O
+level _ _ O
+one _ _ O
+, _ _ O
+" _ _ O
+patients _ _ O
+experience _ _ O
+fatigue _ _ O
+along _ _ O
+with _ _ O
+headache _ _ B-SYM
+, _ _ I-SYM
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+cough _ _ B-SYM
+, _ _ O
+fever _ _ B-SYM
+, _ _ O
+hoarseness _ _ B-SYM
+and _ _ O
+chest _ _ B-SYM
+pain _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Type _ _ O
+five _ _ O
+, _ _ O
+" _ _ O
+severe _ _ O
+level _ _ O
+two _ _ O
+, _ _ O
+" _ _ O
+includes _ _ O
+the _ _ O
+symptoms _ _ O
+of _ _ O
+type _ _ O
+four _ _ O
+along _ _ O
+with _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+appetite _ _ I-SYM
+, _ _ O
+sore _ _ B-SYM
+throat _ _ I-SYM
+and _ _ O
+muscle _ _ B-SYM
+pain _ _ I-SYM
+, _ _ O
+and _ _ O
+is _ _ O
+mainly _ _ O
+distinguished _ _ O
+by _ _ O
+confusion _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+most _ _ O
+severe _ _ O
+type _ _ O
+of _ _ O
+COVID-19 _ _ O
+is _ _ O
+referred _ _ O
+to _ _ O
+as _ _ O
+" _ _ O
+severe _ _ O
+level _ _ O
+three _ _ O
+, _ _ O
+abdominal _ _ O
+and _ _ O
+respiratory _ _ O
+, _ _ O
+" _ _ O
+and _ _ O
+has _ _ O
+all _ _ O
+the _ _ O
+above _ _ O
+symptoms _ _ O
+along _ _ O
+with _ _ O
+abdominal _ _ B-SYM
+pain _ _ I-SYM
+, _ _ O
+shortness _ _ B-SYM
+of _ _ I-SYM
+breath _ _ I-SYM
+and _ _ O
+diarrhea _ _ B-SYM
+. _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+U.K. _ _ B-LOC
+researchers _ _ O
+also _ _ O
+found _ _ O
+that _ _ O
+only _ _ O
+16 _ _ O
+% _ _ O
+of _ _ O
+patients _ _ O
+with _ _ O
+type _ _ O
+one _ _ O
+COVID-19 _ _ O
+required _ _ O
+hospitalization _ _ O
+, _ _ O
+compared _ _ O
+with _ _ O
+nearly _ _ O
+half _ _ O
+of _ _ O
+the _ _ O
+patients _ _ O
+with _ _ O
+type _ _ O
+six _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Rachael _ _ O
+Evans _ _ O
+, _ _ O
+a _ _ O
+clinical _ _ O
+scientist _ _ O
+at _ _ O
+the _ _ O
+UK _ _ B-LOC
+’s _ _ O
+National _ _ O
+Institute _ _ O
+for _ _ O
+Health _ _ O
+Research _ _ O
+, _ _ O
+said _ _ O
+the _ _ O
+post _ _ O
+- _ _ O
+hospital _ _ O
+admission _ _ O
+Covid-19 _ _ O
+study _ _ O
+helped _ _ O
+sort _ _ O
+sufferers _ _ O
+into _ _ O
+subgroups _ _ O
+and _ _ O
+steered _ _ O
+work _ _ O
+to _ _ O
+discover _ _ O
+new _ _ O
+drugs _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+While _ _ O
+patients _ _ O
+suffer _ _ O
+a _ _ O
+range _ _ O
+of _ _ O
+symptoms _ _ O
+, _ _ O
+the _ _ O
+most _ _ O
+commonly _ _ O
+reported _ _ O
+are _ _ B-SYM
+fatigue _ _ I-SYM
+and _ _ O
+breathing _ _ B-SYM
+problems _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Some _ _ O
+also _ _ O
+experience _ _ O
+damage _ _ B-SYM
+to _ _ I-SYM
+their _ _ I-SYM
+organs _ _ I-SYM
+and _ _ O
+in _ _ O
+the _ _ O
+PHOSP _ _ O
+study _ _ O
+, _ _ O
+one _ _ O
+in _ _ O
+10 _ _ O
+had _ _ O
+clinically _ _ O
+relevant _ _ O
+cognitive _ _ O
+impairment _ _ O
+, _ _ O
+often _ _ O
+called _ _ O
+“ _ _ B-SYM
+brain _ _ I-SYM
+fog _ _ I-SYM
+” _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Margaret _ _ O
+O’Hara _ _ O
+, _ _ O
+a _ _ O
+trustee _ _ O
+at _ _ O
+patient _ _ O
+group _ _ O
+Long _ _ O
+Covid _ _ O
+Support _ _ O
+, _ _ O
+fell _ _ O
+sick _ _ O
+with _ _ O
+Covid-19 _ _ O
+in _ _ O
+April _ _ B-TIM
+2020 _ _ I-TIM
+, _ _ O
+after _ _ O
+assisting _ _ O
+on _ _ O
+a _ _ O
+critical _ _ O
+care _ _ O
+coronavirus _ _ O
+ward _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+She _ _ O
+experienced _ _ O
+long _ _ O
+Covid _ _ O
+for _ _ O
+a _ _ O
+year _ _ O
+— _ _ O
+and _ _ O
+then _ _ O
+, _ _ O
+after _ _ O
+contracting _ _ O
+the _ _ O
+disease _ _ O
+in _ _ O
+October _ _ B-TIM
+2021 _ _ I-TIM
+, _ _ O
+is _ _ O
+suffering _ _ O
+again _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+“ _ _ O
+Just _ _ O
+fatigue _ _ B-SYM
+does _ _ O
+n’t _ _ O
+really _ _ O
+begin _ _ O
+to _ _ O
+describe _ _ O
+the _ _ O
+intensity _ _ O
+, _ _ O
+” _ _ O
+she _ _ O
+said _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+It _ _ O
+is _ _ O
+not _ _ O
+clear _ _ O
+the _ _ O
+degree _ _ O
+to _ _ O
+which _ _ O
+vaccination _ _ O
+helps _ _ O
+prevent _ _ O
+long _ _ O
+Covid _ _ O
+— _ _ O
+other _ _ O
+than _ _ O
+reducing _ _ O
+the _ _ O
+likelihood _ _ O
+of _ _ O
+developing _ _ O
+acute _ _ O
+Covid-19 _ _ O
+— _ _ O
+but _ _ O
+self _ _ O
+- _ _ O
+reported _ _ O
+data _ _ O
+from _ _ O
+the _ _ O
+UK _ _ B-LOC
+’s _ _ O
+Zoe _ _ O
+symptom _ _ O
+tracking _ _ O
+app _ _ O
+suggest _ _ O
+it _ _ O
+halves _ _ O
+the _ _ O
+risk _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Researchers _ _ O
+discovered _ _ O
+that _ _ O
+the _ _ O
+people _ _ O
+with _ _ O
+the _ _ O
+most _ _ O
+severe _ _ O
+long _ _ O
+Covid _ _ O
+, _ _ O
+and _ _ O
+those _ _ O
+experiencing _ _ O
+brain _ _ B-SYM
+fog _ _ I-SYM
+, _ _ O
+had _ _ O
+the _ _ O
+highest _ _ O
+levels _ _ O
+of _ _ O
+inflammation _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+UK _ _ B-LOC
+’s _ _ O
+NHS _ _ O
+and _ _ O
+large _ _ O
+US _ _ B-LOC
+health _ _ O
+systems _ _ O
+have _ _ O
+established _ _ O
+long _ _ O
+Covid _ _ O
+clinics _ _ O
+, _ _ O
+which _ _ O
+often _ _ O
+offer _ _ O
+physiotherapy _ _ O
+and _ _ O
+mental _ _ O
+health _ _ O
+support _ _ O
+, _ _ O
+but _ _ O
+so _ _ O
+far _ _ O
+have _ _ O
+not _ _ O
+had _ _ O
+many _ _ O
+pharmaceutical _ _ O
+options _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Bill _ _ O
+Hinshaw _ _ O
+, _ _ O
+chief _ _ O
+executive _ _ O
+of _ _ O
+Boston _ _ O
+- _ _ O
+based _ _ O
+biotech _ _ O
+Axcella _ _ O
+Therapeutics _ _ O
+, _ _ O
+said _ _ O
+there _ _ O
+were _ _ O
+few _ _ O
+products _ _ O
+in _ _ O
+the _ _ O
+pipeline _ _ O
+for _ _ O
+long _ _ O
+Covid _ _ O
+— _ _ O
+and _ _ O
+even _ _ O
+fewer _ _ O
+targeting _ _ O
+muscle _ _ B-SYM
+fatigue _ _ I-SYM
+and _ _ I-SYM
+weakness _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Axcella _ _ O
+and _ _ O
+Oxford _ _ O
+university _ _ O
+are _ _ O
+developing _ _ O
+a _ _ O
+drug _ _ O
+to _ _ O
+reduce _ _ O
+inflammation _ _ B-SYM
+and _ _ O
+restore _ _ O
+mitochondrial _ _ O
+function _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+For _ _ O
+example _ _ O
+, _ _ O
+digital _ _ O
+therapeutics _ _ O
+pioneer _ _ O
+Akili _ _ O
+Interactive _ _ O
+is _ _ O
+creating _ _ O
+a _ _ O
+game _ _ O
+for _ _ O
+people _ _ O
+suffering _ _ O
+from _ _ O
+brain _ _ B-SYM
+fog _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+World _ _ O
+Health _ _ O
+Organisation _ _ O
+( _ _ O
+WHO _ _ O
+) _ _ O
+has _ _ O
+recently _ _ O
+notified _ _ O
+that _ _ O
+over _ _ O
+500 _ _ O
+Omicron _ _ O
+variants _ _ O
+are _ _ O
+currently _ _ O
+circulating _ _ O
+worldwide _ _ O
+and _ _ O
+owing _ _ O
+to _ _ O
+that _ _ O
+, _ _ O
+India _ _ B-LOC
+is _ _ O
+likely _ _ O
+to _ _ O
+see _ _ O
+a _ _ O
+Covid _ _ O
+wave _ _ O
+in _ _ O
+the _ _ O
+coming _ _ O
+days _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+Union _ _ O
+Health _ _ O
+ministry _ _ O
+in _ _ O
+India _ _ B-LOC
+had _ _ O
+in _ _ O
+December _ _ B-TIM
+alerted _ _ O
+that _ _ O
+the _ _ O
+coming _ _ O
+40 _ _ O
+days _ _ O
+would _ _ O
+be _ _ O
+crucial _ _ O
+, _ _ O
+even _ _ O
+as _ _ O
+it _ _ O
+tightened _ _ O
+its _ _ O
+grip _ _ O
+on _ _ O
+Covid _ _ O
+testing _ _ O
+of _ _ O
+inbound _ _ O
+passengers _ _ O
+from _ _ O
+China _ _ B-LOC
+, _ _ O
+Singapore _ _ B-LOC
+, _ _ O
+Hong _ _ B-LOC
+Kong _ _ I-LOC
+, _ _ O
+Republic _ _ B-LOC
+of _ _ I-LOC
+Korea _ _ I-LOC
+, _ _ O
+Thailand _ _ B-LOC
+and _ _ O
+Japan _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Meanwhile _ _ O
+, _ _ O
+India _ _ B-LOC
+on _ _ O
+Wednesday _ _ O
+recorded _ _ O
+175 _ _ O
+fresh _ _ O
+Covid-19 _ _ O
+cases _ _ O
+, _ _ O
+taking _ _ O
+the _ _ O
+active _ _ O
+tally _ _ O
+to _ _ O
+2,570 _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Recently _ _ O
+, _ _ O
+four _ _ O
+cases _ _ O
+of _ _ O
+the _ _ O
+BF.7 _ _ O
+variant _ _ O
+, _ _ O
+which _ _ O
+is _ _ O
+behind _ _ O
+China _ _ B-LOC
+'s _ _ O
+recent _ _ O
+infection _ _ O
+surge _ _ O
+, _ _ O
+has _ _ O
+been _ _ O
+reported _ _ O
+from _ _ O
+India _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Winters _ _ O
+in _ _ O
+India _ _ B-LOC
+also _ _ O
+increases _ _ O
+the _ _ O
+risk _ _ O
+of _ _ O
+common _ _ O
+cold _ _ O
+, _ _ O
+flu _ _ O
+and _ _ O
+Respiratory _ _ O
+Syncytial _ _ O
+Virus _ _ O
+( _ _ O
+RSV _ _ O
+) _ _ O
+Infection _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Loss _ _ B-SYM
+of _ _ I-SYM
+taste _ _ I-SYM
+and _ _ I-SYM
+smell _ _ I-SYM
+is _ _ O
+has _ _ O
+been _ _ O
+observed _ _ O
+to _ _ O
+be _ _ O
+a _ _ O
+common _ _ O
+symptoms _ _ O
+during _ _ O
+respiratory _ _ O
+illness _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+-Cough _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Sneezing _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Difficulty _ _ B-SYM
+in _ _ I-SYM
+breathing _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Fever _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Headache _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Muscle _ _ B-SYM
+pain _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Cough _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Fatigue _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Fever _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Headache _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Muscle _ _ B-SYM
+pain _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Cough _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Fever _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+-Headache _ _ B-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Covid-19 _ _ O
+cases _ _ O
+have _ _ O
+spiked _ _ O
+so _ _ O
+much _ _ O
+recently _ _ O
+that _ _ O
+Boris _ _ O
+Johnson _ _ O
+ordered _ _ O
+a _ _ O
+series _ _ O
+of _ _ O
+measures _ _ O
+in _ _ O
+an _ _ O
+address _ _ O
+on _ _ O
+Tuesday _ _ O
+evening _ _ O
+in _ _ O
+a _ _ O
+bid _ _ O
+to _ _ O
+keep _ _ O
+the _ _ O
+virus _ _ O
+under _ _ O
+control _ _ O
+and _ _ O
+avoid _ _ O
+a _ _ O
+second _ _ O
+full _ _ O
+lockdown _ _ O
+in _ _ O
+the _ _ O
+UK _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+4,926 _ _ O
+people _ _ O
+tested _ _ O
+positive _ _ O
+for _ _ O
+Coronavirus _ _ O
+in _ _ O
+the _ _ O
+UK _ _ B-LOC
+up _ _ O
+to _ _ O
+4 _ _ O
+pm _ _ O
+on _ _ O
+Tuesday _ _ O
+, _ _ O
+and _ _ O
+there _ _ O
+were _ _ O
+37 _ _ O
+deaths _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Altogether _ _ O
+in _ _ O
+the _ _ O
+UK _ _ B-LOC
+, _ _ O
+41,825 _ _ O
+people _ _ O
+have _ _ O
+now _ _ O
+died _ _ O
+within _ _ O
+28 _ _ O
+days _ _ O
+of _ _ O
+a _ _ O
+test _ _ O
+, _ _ O
+and _ _ O
+403,551 _ _ O
+have _ _ O
+tested _ _ O
+positive _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+King _ _ O
+'s _ _ O
+College _ _ O
+London _ _ O
+experts _ _ O
+and _ _ O
+the _ _ O
+British _ _ O
+Association _ _ O
+of _ _ O
+Dermatologists _ _ O
+have _ _ O
+compiled _ _ O
+400 _ _ O
+photos _ _ O
+and _ _ O
+information _ _ O
+on _ _ O
+eight _ _ O
+different _ _ O
+types _ _ O
+of _ _ O
+rashes _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+skin _ _ B-SYM
+rashes _ _ I-SYM
+appear _ _ O
+to _ _ O
+be _ _ O
+linked _ _ O
+to _ _ O
+coronavirus _ _ O
+, _ _ O
+according _ _ O
+to _ _ O
+the _ _ O
+leading _ _ O
+medical _ _ O
+research _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+hive _ _ B-SYM
+- _ _ I-SYM
+type _ _ I-SYM
+rash _ _ I-SYM
+( _ _ O
+urticaria _ _ O
+) _ _ O
+( _ _ O
+itchy _ _ O
+raised _ _ O
+bumps _ _ O
+over _ _ O
+any _ _ O
+part _ _ O
+of _ _ O
+the _ _ O
+body _ _ O
+) _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+( _ _ O
+itchy _ _ O
+raised _ _ O
+bumps _ _ O
+over _ _ O
+any _ _ O
+part _ _ O
+of _ _ O
+the _ _ O
+body _ _ O
+) _ _ O
+' _ _ O
+prickly _ _ O
+heat _ _ O
+' _ _ O
+or _ _ O
+chickenpox _ _ B-SYM
+- _ _ I-SYM
+type _ _ I-SYM
+rash _ _ I-SYM
+( _ _ O
+usually _ _ O
+on _ _ O
+the _ _ O
+elbows _ _ O
+and _ _ O
+knees _ _ O
+, _ _ O
+as _ _ O
+well _ _ O
+as _ _ O
+backs _ _ O
+of _ _ O
+hands _ _ O
+and _ _ O
+feet _ _ O
+) _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+' _ _ B-SYM
+Covid _ _ I-SYM
+toe _ _ I-SYM
+' _ _ O
+( _ _ O
+reddish _ _ O
+or _ _ O
+purplish _ _ O
+bumps _ _ O
+on _ _ O
+the _ _ O
+fingers _ _ O
+or _ _ O
+toes _ _ O
+which _ _ O
+can _ _ O
+be _ _ O
+very _ _ O
+sore _ _ O
+) _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+( _ _ O
+reddish _ _ O
+or _ _ O
+purplish _ _ O
+bumps _ _ O
+on _ _ O
+the _ _ O
+fingers _ _ O
+or _ _ O
+toes _ _ O
+which _ _ O
+can _ _ O
+be _ _ O
+very _ _ O
+sore _ _ O
+) _ _ O
+Pityriasis _ _ O
+rosea _ _ O
+( _ _ O
+a _ _ O
+relatively _ _ O
+common _ _ O
+skin _ _ B-SYM
+condition _ _ I-SYM
+that _ _ O
+causes _ _ O
+a _ _ O
+temporary _ _ O
+rash _ _ O
+of _ _ O
+raised _ _ O
+red _ _ O
+scaly _ _ O
+patches _ _ O
+on _ _ O
+the _ _ O
+body _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+a _ _ O
+relatively _ _ O
+common _ _ O
+skin _ _ B-SYM
+condition _ _ I-SYM
+that _ _ O
+causes _ _ O
+a _ _ O
+temporary _ _ O
+rash _ _ O
+of _ _ O
+raised _ _ O
+red _ _ O
+scaly _ _ O
+patches _ _ O
+on _ _ O
+the _ _ O
+body _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Pink _ _ B-SYM
+eye _ _ I-SYM
+, _ _ O
+or _ _ O
+conjunctivitis _ _ B-SYM
+, _ _ O
+was _ _ O
+not _ _ O
+originally _ _ O
+associated _ _ O
+with _ _ O
+the _ _ O
+coronavirus _ _ O
+until _ _ O
+recently _ _ O
+when _ _ O
+a _ _ O
+new _ _ O
+strain _ _ O
+of _ _ O
+the _ _ O
+omicron _ _ O
+variant _ _ O
+emerged _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Red _ _ B-SYM
+eyes _ _ I-SYM
+new _ _ O
+symptom _ _ O
+of _ _ O
+COVID-19 _ _ O
+Arcturus _ _ O
+: _ _ O
+Jakarta _ _ O
+Health _ _ O
+Office _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Jakarta _ _ B-LOC
+( _ _ B-LOC
+ANTARA _ _ I-LOC
+) _ _ O
+- _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+Jakarta _ _ O
+Health _ _ O
+Office _ _ O
+noted _ _ O
+that _ _ O
+red _ _ B-SYM
+eyes _ _ I-SYM
+is _ _ O
+one _ _ O
+of _ _ O
+the _ _ O
+new _ _ O
+symptoms _ _ O
+found _ _ O
+in _ _ O
+COVID-19 _ _ O
+patients _ _ O
+infected _ _ O
+with _ _ O
+the _ _ O
+XBB.1.16 _ _ O
+or _ _ O
+Arcturus _ _ O
+subvariant _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+Based _ _ O
+on _ _ O
+data _ _ O
+in _ _ O
+India _ _ B-LOC
+, _ _ O
+the _ _ O
+Arcturus _ _ O
+subvariant _ _ O
+, _ _ O
+which _ _ O
+is _ _ O
+still _ _ O
+a _ _ O
+derivative _ _ O
+of _ _ O
+Omicron _ _ O
+, _ _ O
+is _ _ O
+said _ _ O
+to _ _ O
+have _ _ O
+a _ _ O
+new _ _ O
+symptom _ _ O
+that _ _ O
+is _ _ O
+different _ _ O
+from _ _ O
+other _ _ O
+variants _ _ O
+, _ _ O
+namely _ _ O
+red _ _ B-SYM
+eyes _ _ I-SYM
+, _ _ O
+" _ _ O
+the _ _ O
+office _ _ O
+'s _ _ O
+Head _ _ O
+of _ _ O
+Surveillance _ _ O
+and _ _ O
+Immunization _ _ O
+Section _ _ O
+, _ _ O
+Ngabila _ _ O
+Salama _ _ O
+, _ _ O
+stated _ _ O
+through _ _ O
+a _ _ O
+text _ _ O
+message _ _ O
+here _ _ O
+on _ _ O
+Saturday _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Regarding _ _ O
+the _ _ O
+previous _ _ O
+finding _ _ O
+of _ _ O
+two _ _ O
+Arcturus _ _ O
+patients _ _ O
+in _ _ O
+Jakarta _ _ B-LOC
+, _ _ O
+the _ _ O
+duo _ _ O
+did _ _ O
+not _ _ O
+exhibit _ _ O
+the _ _ O
+symptom _ _ O
+of _ _ O
+red _ _ B-SYM
+eyes _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+However _ _ O
+, _ _ O
+several _ _ O
+COVID-19 _ _ O
+patients _ _ O
+with _ _ O
+the _ _ O
+symptom _ _ O
+of _ _ O
+red _ _ B-SYM
+eyes _ _ I-SYM
+had _ _ O
+received _ _ O
+treatment _ _ O
+in _ _ O
+hospitals _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Salama _ _ O
+underlined _ _ O
+that _ _ O
+as _ _ O
+long _ _ O
+as _ _ O
+the _ _ O
+trend _ _ O
+of _ _ O
+treatment _ _ O
+in _ _ O
+hospitals _ _ O
+and _ _ O
+death _ _ O
+cases _ _ O
+do _ _ O
+not _ _ O
+increase _ _ O
+, _ _ O
+the _ _ O
+COVID-19 _ _ O
+pandemic _ _ O
+situation _ _ O
+, _ _ O
+especially _ _ O
+in _ _ O
+Jakarta _ _ B-LOC
+, _ _ O
+should _ _ O
+be _ _ O
+safe _ _ O
+and _ _ O
+under _ _ O
+control _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Nevertheless _ _ O
+, _ _ O
+she _ _ O
+appealed _ _ O
+to _ _ O
+all _ _ O
+parties _ _ O
+to _ _ O
+increase _ _ O
+alertness _ _ O
+against _ _ O
+the _ _ O
+transmission _ _ O
+of _ _ O
+Arcturus _ _ O
+that _ _ O
+has _ _ O
+entered _ _ O
+Indonesia _ _ B-LOC
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+This _ _ O
+is _ _ O
+because _ _ O
+based _ _ O
+on _ _ O
+the _ _ O
+situation _ _ O
+in _ _ O
+India _ _ B-LOC
+-- _ _ O
+as _ _ O
+one _ _ O
+of _ _ O
+the _ _ O
+countries _ _ O
+that _ _ O
+experienced _ _ O
+a _ _ O
+surge _ _ O
+in _ _ O
+cases _ _ O
+due _ _ O
+to _ _ O
+Arcturus _ _ O
+-- _ _ O
+the _ _ O
+variant _ _ O
+largely _ _ O
+infects _ _ O
+children _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Copyright _ _ O
+© _ _ O
+ANTARA _ _ B-LOC
+2023 _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+WASHINGTON _ _ B-LOC
+: _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+National _ _ O
+Institutes _ _ O
+of _ _ O
+Health _ _ O
+is _ _ O
+beginning _ _ O
+a _ _ O
+handful _ _ O
+of _ _ O
+studies _ _ O
+to _ _ O
+test _ _ O
+possible _ _ O
+treatments _ _ O
+for _ _ O
+long _ _ O
+Covid _ _ O
+, _ _ O
+an _ _ O
+anxiously _ _ O
+awaited _ _ O
+step _ _ O
+in _ _ O
+U.S. _ _ B-LOC
+efforts _ _ O
+against _ _ O
+the _ _ O
+mysterious _ _ O
+condition _ _ O
+that _ _ O
+afflicts _ _ O
+millions _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+“ _ _ O
+This _ _ O
+is _ _ O
+a _ _ O
+year _ _ O
+or _ _ O
+two _ _ O
+late _ _ O
+and _ _ O
+smaller _ _ O
+in _ _ O
+scope _ _ O
+than _ _ O
+one _ _ O
+would _ _ O
+hope _ _ O
+but _ _ O
+nevertheless _ _ O
+it _ _ O
+’s _ _ O
+a _ _ O
+step _ _ O
+in _ _ O
+the _ _ O
+right _ _ O
+direction _ _ O
+, _ _ O
+” _ _ O
+said _ _ O
+Dr. _ _ O
+Ziyad _ _ O
+Al _ _ O
+- _ _ O
+Aly _ _ O
+of _ _ O
+Washington _ _ O
+University _ _ O
+in _ _ O
+St. _ _ B-LOC
+Louis _ _ I-LOC
+, _ _ O
+who _ _ O
+is _ _ O
+n’t _ _ O
+involved _ _ O
+with _ _ O
+NIH _ _ O
+’s _ _ O
+project _ _ O
+but _ _ O
+whose _ _ O
+own _ _ O
+research _ _ O
+highlighted _ _ O
+long _ _ O
+Covid _ _ O
+’s _ _ O
+toll _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+— _ _ O
+Treatments _ _ O
+for _ _ O
+“ _ _ B-SYM
+brain _ _ I-SYM
+fog _ _ I-SYM
+” _ _ O
+and _ _ O
+other _ _ O
+cognitive _ _ O
+problems _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+They _ _ O
+include _ _ O
+Posit _ _ O
+Science _ _ O
+Corp. _ _ O
+’s _ _ O
+BrainHQ _ _ O
+cognitive _ _ O
+training _ _ O
+program _ _ O
+, _ _ O
+another _ _ O
+called _ _ O
+PASC _ _ O
+- _ _ O
+Cognitive _ _ O
+Recovery _ _ O
+by _ _ O
+New _ _ B-LOC
+York _ _ I-LOC
+City _ _ I-LOC
+’s _ _ O
+Mount _ _ O
+Sinai _ _ O
+Health _ _ O
+System _ _ O
+, _ _ O
+and _ _ O
+a _ _ O
+Soterix _ _ O
+Medical _ _ O
+device _ _ O
+that _ _ O
+electrically _ _ O
+stimulates _ _ O
+brain _ _ O
+circuits _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Their _ _ O
+symptoms _ _ O
+often _ _ O
+resemble _ _ O
+a _ _ O
+cold _ _ O
+with _ _ O
+congestion _ _ B-SYM
+, _ _ O
+cough _ _ B-SYM
+, _ _ O
+low _ _ B-SYM
+- _ _ I-SYM
+grade _ _ I-SYM
+fever _ _ I-SYM
+and _ _ O
+fatigue _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Other _ _ O
+symptoms _ _ O
+, _ _ O
+such _ _ O
+as _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+taste _ _ I-SYM
+and _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+can _ _ O
+not _ _ O
+be _ _ O
+treated _ _ O
+specifically _ _ O
+, _ _ O
+but _ _ O
+they _ _ O
+generally _ _ O
+resolve _ _ O
+with _ _ O
+time _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Shortness _ _ B-SYM
+of _ _ I-SYM
+breath _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Chest _ _ B-SYM
+pressure _ _ I-SYM
+or _ _ I-SYM
+pain _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Severe _ _ B-SYM
+vomiting _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Color _ _ B-SYM
+change _ _ I-SYM
+in _ _ I-SYM
+skin _ _ I-SYM
+, _ _ I-SYM
+lips _ _ I-SYM
+or _ _ I-SYM
+nail _ _ I-SYM
+beds _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Mental _ _ B-SYM
+changes _ _ I-SYM
+or _ _ I-SYM
+confusion _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Trouble _ _ B-SYM
+breathing _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Persistent _ _ B-SYM
+chest _ _ I-SYM
+pain _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Bluish _ _ B-SYM
+lips _ _ I-SYM
+or _ _ I-SYM
+face _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Severe _ _ B-SYM
+vomiting _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Decrease _ _ B-SYM
+in _ _ I-SYM
+urination _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+COVID-19 _ _ O
+can _ _ O
+cause _ _ O
+myocarditis _ _ B-SYM
+, _ _ O
+which _ _ O
+is _ _ O
+an _ _ O
+inflammation _ _ B-SYM
+of _ _ I-SYM
+the _ _ I-SYM
+heart _ _ I-SYM
+muscle _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Any _ _ O
+symptoms _ _ O
+of _ _ O
+chest _ _ B-SYM
+pain _ _ I-SYM
+, _ _ O
+shortness _ _ B-SYM
+of _ _ I-SYM
+breath _ _ I-SYM
+, _ _ O
+lightheadedness _ _ B-SYM
+, _ _ O
+fainting _ _ B-SYM
+or _ _ O
+heart _ _ B-SYM
+palpitations _ _ I-SYM
+could _ _ O
+indicate _ _ O
+myocarditis _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+While _ _ O
+symptoms _ _ O
+can _ _ O
+vary _ _ O
+, _ _ O
+they _ _ O
+generally _ _ O
+include _ _ O
+a _ _ O
+high _ _ B-SYM
+fever _ _ I-SYM
+and _ _ O
+inflammation _ _ B-SYM
+in _ _ O
+almost _ _ O
+any _ _ O
+organ _ _ O
+system _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+People _ _ O
+experiencing _ _ O
+muscle _ _ B-SYM
+pain _ _ I-SYM
+is _ _ O
+seen _ _ O
+more _ _ O
+often _ _ O
+right _ _ O
+now _ _ O
+than _ _ O
+before _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Hoarse _ _ B-SYM
+voice _ _ I-SYM
+, _ _ O
+cough _ _ B-SYM
+with _ _ I-SYM
+phlegm _ _ I-SYM
+, _ _ O
+altered _ _ B-SYM
+sense _ _ I-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+sneezing _ _ B-SYM
+and _ _ O
+blocked _ _ B-SYM
+nose _ _ I-SYM
+are _ _ O
+also _ _ O
+seen _ _ O
+commonly _ _ O
+in _ _ O
+COVID _ _ O
+patients _ _ O
+these _ _ O
+days _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+majority _ _ O
+of _ _ O
+people _ _ O
+with _ _ O
+COVID-19 _ _ O
+develop _ _ O
+mild _ _ O
+symptoms _ _ O
+such _ _ O
+as _ _ O
+a _ _ O
+cough _ _ B-SYM
+, _ _ O
+fever _ _ B-SYM
+, _ _ O
+and _ _ O
+fatigue _ _ B-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+COVID-19 _ _ O
+can _ _ O
+cause _ _ O
+nasal _ _ O
+symptoms _ _ O
+similar _ _ O
+to _ _ O
+upper _ _ O
+respiratory _ _ O
+infections _ _ O
+, _ _ O
+such _ _ O
+as _ _ O
+a _ _ O
+stuffy _ _ B-SYM
+or _ _ I-SYM
+runny _ _ I-SYM
+nose _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Some _ _ O
+anecdotal _ _ O
+reports _ _ O
+and _ _ O
+case _ _ O
+studies _ _ O
+also _ _ O
+describe _ _ O
+people _ _ O
+with _ _ O
+COVID-19 _ _ O
+developing _ _ O
+a _ _ O
+nose _ _ B-SYM
+burning _ _ I-SYM
+sensation _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Keep _ _ O
+reading _ _ O
+as _ _ O
+we _ _ O
+take _ _ O
+a _ _ O
+deeper _ _ O
+look _ _ O
+at _ _ O
+whether _ _ O
+a _ _ O
+burning _ _ B-SYM
+sensation _ _ I-SYM
+in _ _ I-SYM
+your _ _ I-SYM
+nose _ _ I-SYM
+is _ _ O
+a _ _ O
+common _ _ O
+symptom _ _ O
+of _ _ O
+COVID-19 _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Is _ _ O
+a _ _ O
+burning _ _ B-SYM
+sensation _ _ I-SYM
+in _ _ I-SYM
+the _ _ I-SYM
+nose _ _ I-SYM
+a _ _ O
+sign _ _ O
+of _ _ O
+COVID-19 _ _ O
+? _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Burning _ _ B-SYM
+in _ _ I-SYM
+your _ _ I-SYM
+nose _ _ I-SYM
+can _ _ O
+potentially _ _ O
+be _ _ O
+a _ _ O
+symptom _ _ O
+of _ _ O
+COVID-19 _ _ O
+, _ _ O
+but _ _ O
+it _ _ O
+’s _ _ O
+not _ _ O
+one _ _ O
+of _ _ O
+the _ _ O
+most _ _ O
+common _ _ O
+symptoms _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+only _ _ O
+medical _ _ O
+studies _ _ O
+examining _ _ O
+nose _ _ B-SYM
+burning _ _ I-SYM
+are _ _ O
+isolated _ _ O
+case _ _ O
+studies _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+What _ _ O
+causes _ _ O
+a _ _ O
+burning _ _ B-SYM
+sensation _ _ I-SYM
+in _ _ O
+your _ _ O
+nose _ _ O
+? _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+A _ _ O
+burning _ _ B-SYM
+sensation _ _ I-SYM
+in _ _ O
+your _ _ O
+nose _ _ O
+can _ _ O
+be _ _ O
+caused _ _ O
+by _ _ O
+inflammation _ _ O
+in _ _ O
+your _ _ O
+sinuses _ _ O
+from _ _ O
+a _ _ O
+sinus _ _ O
+infection _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+One _ _ O
+August _ _ O
+2020 _ _ O
+study _ _ O
+of _ _ O
+1,773 _ _ O
+people _ _ O
+with _ _ O
+COVID-19 _ _ O
+found _ _ O
+that _ _ O
+4.1 _ _ O
+percent _ _ O
+developed _ _ O
+nasal _ _ B-SYM
+congestion _ _ I-SYM
+and _ _ O
+2.1 _ _ O
+percent _ _ O
+developed _ _ O
+a _ _ O
+runny _ _ O
+nose _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Most _ _ O
+common _ _ O
+nasal _ _ O
+symptoms _ _ O
+of _ _ O
+COVID-19 _ _ O
+According _ _ O
+to _ _ O
+a _ _ O
+2021 _ _ O
+study _ _ O
+published _ _ O
+in _ _ O
+the _ _ O
+American _ _ O
+Journal _ _ O
+of _ _ O
+Otolaryngology _ _ O
+, _ _ O
+about _ _ O
+33 _ _ O
+percent _ _ O
+of _ _ O
+people _ _ O
+with _ _ O
+COVID-19 _ _ O
+have _ _ O
+mild _ _ O
+symptoms _ _ O
+affecting _ _ O
+the _ _ O
+nose _ _ O
+, _ _ O
+such _ _ O
+as _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+or _ _ I-SYM
+taste _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Loss _ _ O
+or _ _ O
+reduction _ _ B-SYM
+of _ _ I-SYM
+taste _ _ I-SYM
+and _ _ I-SYM
+smell _ _ I-SYM
+are _ _ O
+frequently _ _ O
+reported _ _ O
+as _ _ O
+early _ _ O
+symptoms _ _ O
+of _ _ O
+COVID-19 _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+One _ _ O
+July _ _ B-TIM
+2020 _ _ I-TIM
+study _ _ O
+found _ _ O
+that _ _ O
+73 _ _ O
+percent _ _ O
+of _ _ O
+people _ _ O
+reported _ _ O
+a _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+smell _ _ I-SYM
+prior _ _ O
+to _ _ O
+COVID-19 _ _ O
+diagnosis _ _ O
+and _ _ O
+26.6 _ _ O
+percent _ _ O
+of _ _ O
+people _ _ O
+reported _ _ O
+it _ _ O
+as _ _ O
+the _ _ O
+initial _ _ O
+symptom _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Other _ _ O
+nasal _ _ O
+symptoms _ _ O
+linked _ _ O
+to _ _ O
+COVID-19 _ _ O
+include _ _ O
+: _ _ O
+stuffy _ _ B-SYM
+nose _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+runny _ _ B-SYM
+nose _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+trouble _ _ B-SYM
+breathing _ _ I-SYM
+out _ _ I-SYM
+of _ _ I-SYM
+the _ _ I-SYM
+nose _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+Fever _ _ B-SYM
+and _ _ O
+body _ _ B-SYM
+aches _ _ I-SYM
+are _ _ O
+n’t _ _ O
+symptoms _ _ O
+of _ _ O
+allergies _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Allergy _ _ O
+symptoms _ _ O
+typically _ _ O
+do _ _ O
+n’t _ _ O
+include _ _ O
+coughing _ _ B-SYM
+, _ _ O
+unless _ _ O
+you _ _ O
+have _ _ O
+a _ _ O
+lot _ _ O
+of _ _ O
+drainage _ _ O
+in _ _ O
+your _ _ O
+nose _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+flu _ _ O
+and _ _ O
+colds _ _ O
+do _ _ O
+n’t _ _ O
+typically _ _ O
+lead _ _ O
+to _ _ O
+shortness _ _ B-SYM
+of _ _ I-SYM
+breath _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+persistent _ _ B-SYM
+pain _ _ I-SYM
+or _ _ I-SYM
+pressure _ _ I-SYM
+in _ _ I-SYM
+your _ _ I-SYM
+chest _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+pale _ _ B-SYM
+gray _ _ I-SYM
+or _ _ I-SYM
+blue _ _ I-SYM
+lips _ _ I-SYM
+, _ _ I-SYM
+nails _ _ I-SYM
+, _ _ I-SYM
+or _ _ I-SYM
+skin _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+other _ _ O
+concerning _ _ O
+symptoms _ _ O
+People _ _ O
+with _ _ O
+dark _ _ O
+skin _ _ O
+may _ _ O
+have _ _ O
+more _ _ O
+difficulty _ _ O
+noticing _ _ O
+discoloration _ _ B-SYM
+in _ _ I-SYM
+their _ _ I-SYM
+nails _ _ I-SYM
+, _ _ I-SYM
+lips _ _ I-SYM
+, _ _ I-SYM
+or _ _ I-SYM
+skin _ _ I-SYM
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+SEEING _ _ O
+RED _ _ O
+Covid _ _ O
+symptoms _ _ O
+– _ _ O
+sore _ _ B-SYM
+, _ _ I-SYM
+itchy _ _ I-SYM
+eyes _ _ I-SYM
+could _ _ O
+be _ _ O
+early _ _ O
+coronavirus _ _ O
+warning _ _ O
+sign _ _ O
+, _ _ O
+experts _ _ O
+say _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Whilst _ _ O
+the _ _ O
+key _ _ O
+signs _ _ O
+are _ _ O
+a _ _ O
+fever _ _ B-SYM
+, _ _ O
+a _ _ O
+cough _ _ B-SYM
+and _ _ I-SYM
+a _ _ O
+loss _ _ B-SYM
+of _ _ I-SYM
+taste _ _ I-SYM
+and _ _ I-SYM
+smell _ _ I-SYM
+, _ _ O
+it _ _ O
+'s _ _ O
+also _ _ O
+becoming _ _ O
+clear _ _ O
+that _ _ O
+there _ _ O
+are _ _ O
+other _ _ O
+less _ _ O
+common _ _ O
+symptoms _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+2 _ _ O
+Sore _ _ B-SYM
+, _ _ I-SYM
+itchy _ _ I-SYM
+eyes _ _ I-SYM
+could _ _ O
+be _ _ O
+a _ _ O
+sign _ _ O
+of _ _ O
+coronavirus _ _ O
+, _ _ O
+experts _ _ O
+say _ _ O
+Credit _ _ O
+: _ _ O
+Getty _ _ O
+Images _ _ O
+- _ _ O
+Getty _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+Experts _ _ O
+now _ _ O
+believe _ _ O
+that _ _ O
+having _ _ O
+problems _ _ B-SYM
+with _ _ I-SYM
+the _ _ I-SYM
+eyes _ _ I-SYM
+could _ _ O
+be _ _ O
+an _ _ O
+indicator _ _ O
+that _ _ O
+someone _ _ O
+has _ _ O
+contracted _ _ O
+Covid-19 _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+A _ _ O
+recent _ _ O
+study _ _ O
+found _ _ O
+that _ _ O
+having _ _ O
+sore _ _ B-SYM
+, _ _ I-SYM
+itchy _ _ I-SYM
+eyes _ _ I-SYM
+was _ _ O
+one _ _ O
+of _ _ O
+the _ _ O
+most _ _ O
+significant _ _ O
+ocular _ _ O
+symptom _ _ O
+in _ _ O
+Covid _ _ O
+patients _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+They _ _ O
+warned _ _ O
+that _ _ O
+conjunctivitis _ _ B-SYM
+could _ _ O
+be _ _ O
+an _ _ O
+early _ _ O
+sign _ _ O
+of _ _ O
+Covid _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+She _ _ O
+concluded _ _ O
+: _ _ O
+" _ _ O
+The _ _ O
+most _ _ O
+significant _ _ O
+ocular _ _ O
+symptom _ _ O
+experienced _ _ O
+by _ _ O
+people _ _ O
+suffering _ _ O
+from _ _ O
+Covid-19 _ _ O
+was _ _ O
+sore _ _ B-SYM
+eyes _ _ I-SYM
+. _ _ I-SYM
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+Other _ _ O
+symptoms _ _ O
+associated _ _ O
+with _ _ O
+other _ _ O
+types _ _ O
+of _ _ O
+conjunctivitis _ _ B-SYM
+, _ _ O
+such _ _ O
+as _ _ O
+mucous _ _ B-SYM
+discharge _ _ I-SYM
+and _ _ O
+gritty _ _ B-SYM
+eyes _ _ I-SYM
+linked _ _ O
+to _ _ O
+bacterial _ _ O
+infection _ _ O
+, _ _ O
+did _ _ O
+not _ _ O
+reach _ _ O
+significance _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+" _ _ O
+The _ _ O
+term _ _ O
+‘ _ _ B-SYM
+conjunctivitis _ _ I-SYM
+’ _ _ O
+is _ _ O
+too _ _ O
+broad _ _ O
+and _ _ O
+should _ _ O
+be _ _ O
+used _ _ O
+with _ _ O
+caution _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+The _ _ O
+NHS _ _ O
+does _ _ O
+n't _ _ O
+list _ _ O
+red _ _ B-SYM
+eyes _ _ I-SYM
+- _ _ O
+or _ _ O
+any _ _ O
+eye _ _ O
+issues _ _ O
+- _ _ O
+on _ _ O
+its _ _ O
+official _ _ O
+list _ _ O
+of _ _ O
+symptoms _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+While _ _ O
+the _ _ O
+College _ _ O
+of _ _ O
+Optometrists _ _ O
+and _ _ O
+The _ _ O
+Royal _ _ O
+College _ _ O
+of _ _ O
+Ophthalmologists _ _ O
+say _ _ O
+it _ _ O
+is _ _ O
+unlikely _ _ O
+patients _ _ O
+would _ _ O
+develop _ _ O
+red _ _ B-SYM
+eyes _ _ I-SYM
+without _ _ O
+other _ _ O
+symptoms _ _ O
+of _ _ O
+coronavirus _ _ O
+. _ _ O
+
+
+-DOCSTART- -X- -X- O
+
+A _ _ O
+spokeswoman _ _ O
+said _ _ O
+: _ _ O
+" _ _ O
+Recent _ _ O
+reports _ _ O
+have _ _ O
+suggested _ _ O
+that _ _ O
+Covid-19 _ _ O
+may _ _ O
+cause _ _ O
+conjunctivitis _ _ B-SYM
+, _ _ O
+and _ _ O
+it _ _ O
+is _ _ O
+known _ _ O
+that _ _ O
+viral _ _ O
+particles _ _ O
+can _ _ O
+be _ _ O
+found _ _ O
+in _ _ O
+tears _ _ O
+, _ _ O
+which _ _ O
+has _ _ O
+caused _ _ O
+some _ _ O
+concern _ _ O
+amongst _ _ O
+eye _ _ O
+health _ _ O
+professionals _ _ O
+. _ _ O
+
+
